@@ -1,0 +1,1 @@
+/* BREAKPOINT: Desktop (BASE) */#brxe-wvvmye ul {grid-template-columns: repeat(3, 1fr)}#brxe-wvvmye li {height: 24rem}/* BREAKPOINT: Mobile landscape */@media (max-width: 767px) {#brxe-wvvmye ul {grid-template-columns: repeat(2, 1fr)}}/* BREAKPOINT: Mobile portrait */@media (max-width: 478px) {#brxe-wvvmye ul {grid-template-columns: repeat(1, 1fr)}}
