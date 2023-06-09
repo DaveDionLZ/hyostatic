@@ -1,5 +1,5 @@
-/* Version: 2.5.0-beta-1 - Generated 2023-05-11 20:06:51 */
-.has-action {
+/* Version: 2.5.0-beta-2 - Generated 2023-06-09 19:04:18 */
+.has-action-color {
   color: var(--action);
 }
 .has-action-background-color {
@@ -8,7 +8,7 @@
 .has-action-border-color {
   border-color: var(--action);
 }
-.has-action-hover {
+.has-action-hover-color {
   color: var(--action-hover);
 }
 .has-action-hover-background-color {
@@ -17,7 +17,7 @@
 .has-action-hover-border-color {
   border-color: var(--action-hover);
 }
-.has-action-ultra-light {
+.has-action-ultra-light-color {
   color: var(--action-ultra-light);
 }
 .has-action-ultra-light-background-color {
@@ -26,7 +26,7 @@
 .has-action-ultra-light-border-color {
   border-color: var(--action-ultra-light);
 }
-.has-action-light {
+.has-action-light-color {
   color: var(--action-light);
 }
 .has-action-light-background-color {
@@ -35,7 +35,7 @@
 .has-action-light-border-color {
   border-color: var(--action-light);
 }
-.has-action-medium {
+.has-action-medium-color {
   color: var(--action-medium);
 }
 .has-action-medium-background-color {
@@ -44,7 +44,7 @@
 .has-action-medium-border-color {
   border-color: var(--action-medium);
 }
-.has-action-dark {
+.has-action-dark-color {
   color: var(--action-dark);
 }
 .has-action-dark-background-color {
@@ -53,7 +53,7 @@
 .has-action-dark-border-color {
   border-color: var(--action-dark);
 }
-.has-action-ultra-dark {
+.has-action-ultra-dark-color {
   color: var(--action-ultra-dark);
 }
 .has-action-ultra-dark-background-color {
@@ -62,7 +62,7 @@
 .has-action-ultra-dark-border-color {
   border-color: var(--action-ultra-dark);
 }
-.has-action-comp {
+.has-action-comp-color {
   color: var(--action-comp);
 }
 .has-action-comp-background-color {
@@ -71,7 +71,7 @@
 .has-action-comp-border-color {
   border-color: var(--action-comp);
 }
-.has-action-trans-10 {
+.has-action-trans-10-color {
   color: var(--action-trans-10);
 }
 .has-action-trans-10-background-color {
@@ -80,7 +80,7 @@
 .has-action-trans-10-border-color {
   border-color: var(--action-trans-10);
 }
-.has-action-trans-20 {
+.has-action-trans-20-color {
   color: var(--action-trans-20);
 }
 .has-action-trans-20-background-color {
@@ -89,7 +89,7 @@
 .has-action-trans-20-border-color {
   border-color: var(--action-trans-20);
 }
-.has-action-trans-30 {
+.has-action-trans-30-color {
   color: var(--action-trans-30);
 }
 .has-action-trans-30-background-color {
@@ -98,7 +98,7 @@
 .has-action-trans-30-border-color {
   border-color: var(--action-trans-30);
 }
-.has-action-trans-40 {
+.has-action-trans-40-color {
   color: var(--action-trans-40);
 }
 .has-action-trans-40-background-color {
@@ -107,7 +107,7 @@
 .has-action-trans-40-border-color {
   border-color: var(--action-trans-40);
 }
-.has-action-trans-50 {
+.has-action-trans-50-color {
   color: var(--action-trans-50);
 }
 .has-action-trans-50-background-color {
@@ -116,7 +116,7 @@
 .has-action-trans-50-border-color {
   border-color: var(--action-trans-50);
 }
-.has-action-trans-60 {
+.has-action-trans-60-color {
   color: var(--action-trans-60);
 }
 .has-action-trans-60-background-color {
@@ -125,7 +125,7 @@
 .has-action-trans-60-border-color {
   border-color: var(--action-trans-60);
 }
-.has-action-trans-70 {
+.has-action-trans-70-color {
   color: var(--action-trans-70);
 }
 .has-action-trans-70-background-color {
@@ -134,7 +134,7 @@
 .has-action-trans-70-border-color {
   border-color: var(--action-trans-70);
 }
-.has-action-trans-80 {
+.has-action-trans-80-color {
   color: var(--action-trans-80);
 }
 .has-action-trans-80-background-color {
@@ -143,7 +143,7 @@
 .has-action-trans-80-border-color {
   border-color: var(--action-trans-80);
 }
-.has-action-trans-90 {
+.has-action-trans-90-color {
   color: var(--action-trans-90);
 }
 .has-action-trans-90-background-color {
@@ -152,7 +152,7 @@
 .has-action-trans-90-border-color {
   border-color: var(--action-trans-90);
 }
-.has-action-light-trans-10 {
+.has-action-light-trans-10-color {
   color: var(--action-light-trans-10);
 }
 .has-action-light-trans-10-background-color {
@@ -161,7 +161,7 @@
 .has-action-light-trans-10-border-color {
   border-color: var(--action-light-trans-10);
 }
-.has-action-light-trans-20 {
+.has-action-light-trans-20-color {
   color: var(--action-light-trans-20);
 }
 .has-action-light-trans-20-background-color {
@@ -170,7 +170,7 @@
 .has-action-light-trans-20-border-color {
   border-color: var(--action-light-trans-20);
 }
-.has-action-light-trans-30 {
+.has-action-light-trans-30-color {
   color: var(--action-light-trans-30);
 }
 .has-action-light-trans-30-background-color {
@@ -179,7 +179,7 @@
 .has-action-light-trans-30-border-color {
   border-color: var(--action-light-trans-30);
 }
-.has-action-light-trans-40 {
+.has-action-light-trans-40-color {
   color: var(--action-light-trans-40);
 }
 .has-action-light-trans-40-background-color {
@@ -188,7 +188,7 @@
 .has-action-light-trans-40-border-color {
   border-color: var(--action-light-trans-40);
 }
-.has-action-light-trans-50 {
+.has-action-light-trans-50-color {
   color: var(--action-light-trans-50);
 }
 .has-action-light-trans-50-background-color {
@@ -197,7 +197,7 @@
 .has-action-light-trans-50-border-color {
   border-color: var(--action-light-trans-50);
 }
-.has-action-light-trans-60 {
+.has-action-light-trans-60-color {
   color: var(--action-light-trans-60);
 }
 .has-action-light-trans-60-background-color {
@@ -206,7 +206,7 @@
 .has-action-light-trans-60-border-color {
   border-color: var(--action-light-trans-60);
 }
-.has-action-light-trans-70 {
+.has-action-light-trans-70-color {
   color: var(--action-light-trans-70);
 }
 .has-action-light-trans-70-background-color {
@@ -215,7 +215,7 @@
 .has-action-light-trans-70-border-color {
   border-color: var(--action-light-trans-70);
 }
-.has-action-light-trans-80 {
+.has-action-light-trans-80-color {
   color: var(--action-light-trans-80);
 }
 .has-action-light-trans-80-background-color {
@@ -224,7 +224,7 @@
 .has-action-light-trans-80-border-color {
   border-color: var(--action-light-trans-80);
 }
-.has-action-light-trans-90 {
+.has-action-light-trans-90-color {
   color: var(--action-light-trans-90);
 }
 .has-action-light-trans-90-background-color {
@@ -233,7 +233,7 @@
 .has-action-light-trans-90-border-color {
   border-color: var(--action-light-trans-90);
 }
-.has-action-dark-trans-10 {
+.has-action-dark-trans-10-color {
   color: var(--action-dark-trans-10);
 }
 .has-action-dark-trans-10-background-color {
@@ -242,7 +242,7 @@
 .has-action-dark-trans-10-border-color {
   border-color: var(--action-dark-trans-10);
 }
-.has-action-dark-trans-20 {
+.has-action-dark-trans-20-color {
   color: var(--action-dark-trans-20);
 }
 .has-action-dark-trans-20-background-color {
@@ -251,7 +251,7 @@
 .has-action-dark-trans-20-border-color {
   border-color: var(--action-dark-trans-20);
 }
-.has-action-dark-trans-30 {
+.has-action-dark-trans-30-color {
   color: var(--action-dark-trans-30);
 }
 .has-action-dark-trans-30-background-color {
@@ -260,7 +260,7 @@
 .has-action-dark-trans-30-border-color {
   border-color: var(--action-dark-trans-30);
 }
-.has-action-dark-trans-40 {
+.has-action-dark-trans-40-color {
   color: var(--action-dark-trans-40);
 }
 .has-action-dark-trans-40-background-color {
@@ -269,7 +269,7 @@
 .has-action-dark-trans-40-border-color {
   border-color: var(--action-dark-trans-40);
 }
-.has-action-dark-trans-50 {
+.has-action-dark-trans-50-color {
   color: var(--action-dark-trans-50);
 }
 .has-action-dark-trans-50-background-color {
@@ -278,7 +278,7 @@
 .has-action-dark-trans-50-border-color {
   border-color: var(--action-dark-trans-50);
 }
-.has-action-dark-trans-60 {
+.has-action-dark-trans-60-color {
   color: var(--action-dark-trans-60);
 }
 .has-action-dark-trans-60-background-color {
@@ -287,7 +287,7 @@
 .has-action-dark-trans-60-border-color {
   border-color: var(--action-dark-trans-60);
 }
-.has-action-dark-trans-70 {
+.has-action-dark-trans-70-color {
   color: var(--action-dark-trans-70);
 }
 .has-action-dark-trans-70-background-color {
@@ -296,7 +296,7 @@
 .has-action-dark-trans-70-border-color {
   border-color: var(--action-dark-trans-70);
 }
-.has-action-dark-trans-80 {
+.has-action-dark-trans-80-color {
   color: var(--action-dark-trans-80);
 }
 .has-action-dark-trans-80-background-color {
@@ -305,7 +305,7 @@
 .has-action-dark-trans-80-border-color {
   border-color: var(--action-dark-trans-80);
 }
-.has-action-dark-trans-90 {
+.has-action-dark-trans-90-color {
   color: var(--action-dark-trans-90);
 }
 .has-action-dark-trans-90-background-color {
@@ -314,7 +314,7 @@
 .has-action-dark-trans-90-border-color {
   border-color: var(--action-dark-trans-90);
 }
-.has-action-ultra-dark-trans-10 {
+.has-action-ultra-dark-trans-10-color {
   color: var(--action-ultra-dark-trans-10);
 }
 .has-action-ultra-dark-trans-10-background-color {
@@ -323,7 +323,7 @@
 .has-action-ultra-dark-trans-10-border-color {
   border-color: var(--action-ultra-dark-trans-10);
 }
-.has-action-ultra-dark-trans-20 {
+.has-action-ultra-dark-trans-20-color {
   color: var(--action-ultra-dark-trans-20);
 }
 .has-action-ultra-dark-trans-20-background-color {
@@ -332,7 +332,7 @@
 .has-action-ultra-dark-trans-20-border-color {
   border-color: var(--action-ultra-dark-trans-20);
 }
-.has-action-ultra-dark-trans-30 {
+.has-action-ultra-dark-trans-30-color {
   color: var(--action-ultra-dark-trans-30);
 }
 .has-action-ultra-dark-trans-30-background-color {
@@ -341,7 +341,7 @@
 .has-action-ultra-dark-trans-30-border-color {
   border-color: var(--action-ultra-dark-trans-30);
 }
-.has-action-ultra-dark-trans-40 {
+.has-action-ultra-dark-trans-40-color {
   color: var(--action-ultra-dark-trans-40);
 }
 .has-action-ultra-dark-trans-40-background-color {
@@ -350,7 +350,7 @@
 .has-action-ultra-dark-trans-40-border-color {
   border-color: var(--action-ultra-dark-trans-40);
 }
-.has-action-ultra-dark-trans-50 {
+.has-action-ultra-dark-trans-50-color {
   color: var(--action-ultra-dark-trans-50);
 }
 .has-action-ultra-dark-trans-50-background-color {
@@ -359,7 +359,7 @@
 .has-action-ultra-dark-trans-50-border-color {
   border-color: var(--action-ultra-dark-trans-50);
 }
-.has-action-ultra-dark-trans-60 {
+.has-action-ultra-dark-trans-60-color {
   color: var(--action-ultra-dark-trans-60);
 }
 .has-action-ultra-dark-trans-60-background-color {
@@ -368,7 +368,7 @@
 .has-action-ultra-dark-trans-60-border-color {
   border-color: var(--action-ultra-dark-trans-60);
 }
-.has-action-ultra-dark-trans-70 {
+.has-action-ultra-dark-trans-70-color {
   color: var(--action-ultra-dark-trans-70);
 }
 .has-action-ultra-dark-trans-70-background-color {
@@ -377,7 +377,7 @@
 .has-action-ultra-dark-trans-70-border-color {
   border-color: var(--action-ultra-dark-trans-70);
 }
-.has-action-ultra-dark-trans-80 {
+.has-action-ultra-dark-trans-80-color {
   color: var(--action-ultra-dark-trans-80);
 }
 .has-action-ultra-dark-trans-80-background-color {
@@ -386,7 +386,7 @@
 .has-action-ultra-dark-trans-80-border-color {
   border-color: var(--action-ultra-dark-trans-80);
 }
-.has-action-ultra-dark-trans-90 {
+.has-action-ultra-dark-trans-90-color {
   color: var(--action-ultra-dark-trans-90);
 }
 .has-action-ultra-dark-trans-90-background-color {
@@ -395,7 +395,7 @@
 .has-action-ultra-dark-trans-90-border-color {
   border-color: var(--action-ultra-dark-trans-90);
 }
-.has-primary {
+.has-primary-color {
   color: var(--primary);
 }
 .has-primary-background-color {
@@ -404,7 +404,7 @@
 .has-primary-border-color {
   border-color: var(--primary);
 }
-.has-primary-hover {
+.has-primary-hover-color {
   color: var(--primary-hover);
 }
 .has-primary-hover-background-color {
@@ -413,7 +413,7 @@
 .has-primary-hover-border-color {
   border-color: var(--primary-hover);
 }
-.has-primary-ultra-light {
+.has-primary-ultra-light-color {
   color: var(--primary-ultra-light);
 }
 .has-primary-ultra-light-background-color {
@@ -422,7 +422,7 @@
 .has-primary-ultra-light-border-color {
   border-color: var(--primary-ultra-light);
 }
-.has-primary-light {
+.has-primary-light-color {
   color: var(--primary-light);
 }
 .has-primary-light-background-color {
@@ -431,7 +431,7 @@
 .has-primary-light-border-color {
   border-color: var(--primary-light);
 }
-.has-primary-medium {
+.has-primary-medium-color {
   color: var(--primary-medium);
 }
 .has-primary-medium-background-color {
@@ -440,7 +440,7 @@
 .has-primary-medium-border-color {
   border-color: var(--primary-medium);
 }
-.has-primary-dark {
+.has-primary-dark-color {
   color: var(--primary-dark);
 }
 .has-primary-dark-background-color {
@@ -449,7 +449,7 @@
 .has-primary-dark-border-color {
   border-color: var(--primary-dark);
 }
-.has-primary-ultra-dark {
+.has-primary-ultra-dark-color {
   color: var(--primary-ultra-dark);
 }
 .has-primary-ultra-dark-background-color {
@@ -458,7 +458,7 @@
 .has-primary-ultra-dark-border-color {
   border-color: var(--primary-ultra-dark);
 }
-.has-primary-comp {
+.has-primary-comp-color {
   color: var(--primary-comp);
 }
 .has-primary-comp-background-color {
@@ -467,7 +467,7 @@
 .has-primary-comp-border-color {
   border-color: var(--primary-comp);
 }
-.has-primary-trans-10 {
+.has-primary-trans-10-color {
   color: var(--primary-trans-10);
 }
 .has-primary-trans-10-background-color {
@@ -476,7 +476,7 @@
 .has-primary-trans-10-border-color {
   border-color: var(--primary-trans-10);
 }
-.has-primary-trans-20 {
+.has-primary-trans-20-color {
   color: var(--primary-trans-20);
 }
 .has-primary-trans-20-background-color {
@@ -485,7 +485,7 @@
 .has-primary-trans-20-border-color {
   border-color: var(--primary-trans-20);
 }
-.has-primary-trans-30 {
+.has-primary-trans-30-color {
   color: var(--primary-trans-30);
 }
 .has-primary-trans-30-background-color {
@@ -494,7 +494,7 @@
 .has-primary-trans-30-border-color {
   border-color: var(--primary-trans-30);
 }
-.has-primary-trans-40 {
+.has-primary-trans-40-color {
   color: var(--primary-trans-40);
 }
 .has-primary-trans-40-background-color {
@@ -503,7 +503,7 @@
 .has-primary-trans-40-border-color {
   border-color: var(--primary-trans-40);
 }
-.has-primary-trans-50 {
+.has-primary-trans-50-color {
   color: var(--primary-trans-50);
 }
 .has-primary-trans-50-background-color {
@@ -512,7 +512,7 @@
 .has-primary-trans-50-border-color {
   border-color: var(--primary-trans-50);
 }
-.has-primary-trans-60 {
+.has-primary-trans-60-color {
   color: var(--primary-trans-60);
 }
 .has-primary-trans-60-background-color {
@@ -521,7 +521,7 @@
 .has-primary-trans-60-border-color {
   border-color: var(--primary-trans-60);
 }
-.has-primary-trans-70 {
+.has-primary-trans-70-color {
   color: var(--primary-trans-70);
 }
 .has-primary-trans-70-background-color {
@@ -530,7 +530,7 @@
 .has-primary-trans-70-border-color {
   border-color: var(--primary-trans-70);
 }
-.has-primary-trans-80 {
+.has-primary-trans-80-color {
   color: var(--primary-trans-80);
 }
 .has-primary-trans-80-background-color {
@@ -539,7 +539,7 @@
 .has-primary-trans-80-border-color {
   border-color: var(--primary-trans-80);
 }
-.has-primary-trans-90 {
+.has-primary-trans-90-color {
   color: var(--primary-trans-90);
 }
 .has-primary-trans-90-background-color {
@@ -548,7 +548,7 @@
 .has-primary-trans-90-border-color {
   border-color: var(--primary-trans-90);
 }
-.has-primary-light-trans-10 {
+.has-primary-light-trans-10-color {
   color: var(--primary-light-trans-10);
 }
 .has-primary-light-trans-10-background-color {
@@ -557,7 +557,7 @@
 .has-primary-light-trans-10-border-color {
   border-color: var(--primary-light-trans-10);
 }
-.has-primary-light-trans-20 {
+.has-primary-light-trans-20-color {
   color: var(--primary-light-trans-20);
 }
 .has-primary-light-trans-20-background-color {
@@ -566,7 +566,7 @@
 .has-primary-light-trans-20-border-color {
   border-color: var(--primary-light-trans-20);
 }
-.has-primary-light-trans-30 {
+.has-primary-light-trans-30-color {
   color: var(--primary-light-trans-30);
 }
 .has-primary-light-trans-30-background-color {
@@ -575,7 +575,7 @@
 .has-primary-light-trans-30-border-color {
   border-color: var(--primary-light-trans-30);
 }
-.has-primary-light-trans-40 {
+.has-primary-light-trans-40-color {
   color: var(--primary-light-trans-40);
 }
 .has-primary-light-trans-40-background-color {
@@ -584,7 +584,7 @@
 .has-primary-light-trans-40-border-color {
   border-color: var(--primary-light-trans-40);
 }
-.has-primary-light-trans-50 {
+.has-primary-light-trans-50-color {
   color: var(--primary-light-trans-50);
 }
 .has-primary-light-trans-50-background-color {
@@ -593,7 +593,7 @@
 .has-primary-light-trans-50-border-color {
   border-color: var(--primary-light-trans-50);
 }
-.has-primary-light-trans-60 {
+.has-primary-light-trans-60-color {
   color: var(--primary-light-trans-60);
 }
 .has-primary-light-trans-60-background-color {
@@ -602,7 +602,7 @@
 .has-primary-light-trans-60-border-color {
   border-color: var(--primary-light-trans-60);
 }
-.has-primary-light-trans-70 {
+.has-primary-light-trans-70-color {
   color: var(--primary-light-trans-70);
 }
 .has-primary-light-trans-70-background-color {
@@ -611,7 +611,7 @@
 .has-primary-light-trans-70-border-color {
   border-color: var(--primary-light-trans-70);
 }
-.has-primary-light-trans-80 {
+.has-primary-light-trans-80-color {
   color: var(--primary-light-trans-80);
 }
 .has-primary-light-trans-80-background-color {
@@ -620,7 +620,7 @@
 .has-primary-light-trans-80-border-color {
   border-color: var(--primary-light-trans-80);
 }
-.has-primary-light-trans-90 {
+.has-primary-light-trans-90-color {
   color: var(--primary-light-trans-90);
 }
 .has-primary-light-trans-90-background-color {
@@ -629,7 +629,7 @@
 .has-primary-light-trans-90-border-color {
   border-color: var(--primary-light-trans-90);
 }
-.has-primary-dark-trans-10 {
+.has-primary-dark-trans-10-color {
   color: var(--primary-dark-trans-10);
 }
 .has-primary-dark-trans-10-background-color {
@@ -638,7 +638,7 @@
 .has-primary-dark-trans-10-border-color {
   border-color: var(--primary-dark-trans-10);
 }
-.has-primary-dark-trans-20 {
+.has-primary-dark-trans-20-color {
   color: var(--primary-dark-trans-20);
 }
 .has-primary-dark-trans-20-background-color {
@@ -647,7 +647,7 @@
 .has-primary-dark-trans-20-border-color {
   border-color: var(--primary-dark-trans-20);
 }
-.has-primary-dark-trans-30 {
+.has-primary-dark-trans-30-color {
   color: var(--primary-dark-trans-30);
 }
 .has-primary-dark-trans-30-background-color {
@@ -656,7 +656,7 @@
 .has-primary-dark-trans-30-border-color {
   border-color: var(--primary-dark-trans-30);
 }
-.has-primary-dark-trans-40 {
+.has-primary-dark-trans-40-color {
   color: var(--primary-dark-trans-40);
 }
 .has-primary-dark-trans-40-background-color {
@@ -665,7 +665,7 @@
 .has-primary-dark-trans-40-border-color {
   border-color: var(--primary-dark-trans-40);
 }
-.has-primary-dark-trans-50 {
+.has-primary-dark-trans-50-color {
   color: var(--primary-dark-trans-50);
 }
 .has-primary-dark-trans-50-background-color {
@@ -674,7 +674,7 @@
 .has-primary-dark-trans-50-border-color {
   border-color: var(--primary-dark-trans-50);
 }
-.has-primary-dark-trans-60 {
+.has-primary-dark-trans-60-color {
   color: var(--primary-dark-trans-60);
 }
 .has-primary-dark-trans-60-background-color {
@@ -683,7 +683,7 @@
 .has-primary-dark-trans-60-border-color {
   border-color: var(--primary-dark-trans-60);
 }
-.has-primary-dark-trans-70 {
+.has-primary-dark-trans-70-color {
   color: var(--primary-dark-trans-70);
 }
 .has-primary-dark-trans-70-background-color {
@@ -692,7 +692,7 @@
 .has-primary-dark-trans-70-border-color {
   border-color: var(--primary-dark-trans-70);
 }
-.has-primary-dark-trans-80 {
+.has-primary-dark-trans-80-color {
   color: var(--primary-dark-trans-80);
 }
 .has-primary-dark-trans-80-background-color {
@@ -701,7 +701,7 @@
 .has-primary-dark-trans-80-border-color {
   border-color: var(--primary-dark-trans-80);
 }
-.has-primary-dark-trans-90 {
+.has-primary-dark-trans-90-color {
   color: var(--primary-dark-trans-90);
 }
 .has-primary-dark-trans-90-background-color {
@@ -710,7 +710,7 @@
 .has-primary-dark-trans-90-border-color {
   border-color: var(--primary-dark-trans-90);
 }
-.has-primary-ultra-dark-trans-10 {
+.has-primary-ultra-dark-trans-10-color {
   color: var(--primary-ultra-dark-trans-10);
 }
 .has-primary-ultra-dark-trans-10-background-color {
@@ -719,7 +719,7 @@
 .has-primary-ultra-dark-trans-10-border-color {
   border-color: var(--primary-ultra-dark-trans-10);
 }
-.has-primary-ultra-dark-trans-20 {
+.has-primary-ultra-dark-trans-20-color {
   color: var(--primary-ultra-dark-trans-20);
 }
 .has-primary-ultra-dark-trans-20-background-color {
@@ -728,7 +728,7 @@
 .has-primary-ultra-dark-trans-20-border-color {
   border-color: var(--primary-ultra-dark-trans-20);
 }
-.has-primary-ultra-dark-trans-30 {
+.has-primary-ultra-dark-trans-30-color {
   color: var(--primary-ultra-dark-trans-30);
 }
 .has-primary-ultra-dark-trans-30-background-color {
@@ -737,7 +737,7 @@
 .has-primary-ultra-dark-trans-30-border-color {
   border-color: var(--primary-ultra-dark-trans-30);
 }
-.has-primary-ultra-dark-trans-40 {
+.has-primary-ultra-dark-trans-40-color {
   color: var(--primary-ultra-dark-trans-40);
 }
 .has-primary-ultra-dark-trans-40-background-color {
@@ -746,7 +746,7 @@
 .has-primary-ultra-dark-trans-40-border-color {
   border-color: var(--primary-ultra-dark-trans-40);
 }
-.has-primary-ultra-dark-trans-50 {
+.has-primary-ultra-dark-trans-50-color {
   color: var(--primary-ultra-dark-trans-50);
 }
 .has-primary-ultra-dark-trans-50-background-color {
@@ -755,7 +755,7 @@
 .has-primary-ultra-dark-trans-50-border-color {
   border-color: var(--primary-ultra-dark-trans-50);
 }
-.has-primary-ultra-dark-trans-60 {
+.has-primary-ultra-dark-trans-60-color {
   color: var(--primary-ultra-dark-trans-60);
 }
 .has-primary-ultra-dark-trans-60-background-color {
@@ -764,7 +764,7 @@
 .has-primary-ultra-dark-trans-60-border-color {
   border-color: var(--primary-ultra-dark-trans-60);
 }
-.has-primary-ultra-dark-trans-70 {
+.has-primary-ultra-dark-trans-70-color {
   color: var(--primary-ultra-dark-trans-70);
 }
 .has-primary-ultra-dark-trans-70-background-color {
@@ -773,7 +773,7 @@
 .has-primary-ultra-dark-trans-70-border-color {
   border-color: var(--primary-ultra-dark-trans-70);
 }
-.has-primary-ultra-dark-trans-80 {
+.has-primary-ultra-dark-trans-80-color {
   color: var(--primary-ultra-dark-trans-80);
 }
 .has-primary-ultra-dark-trans-80-background-color {
@@ -782,7 +782,7 @@
 .has-primary-ultra-dark-trans-80-border-color {
   border-color: var(--primary-ultra-dark-trans-80);
 }
-.has-primary-ultra-dark-trans-90 {
+.has-primary-ultra-dark-trans-90-color {
   color: var(--primary-ultra-dark-trans-90);
 }
 .has-primary-ultra-dark-trans-90-background-color {
@@ -791,7 +791,7 @@
 .has-primary-ultra-dark-trans-90-border-color {
   border-color: var(--primary-ultra-dark-trans-90);
 }
-.has-secondary {
+.has-secondary-color {
   color: var(--secondary);
 }
 .has-secondary-background-color {
@@ -800,7 +800,7 @@
 .has-secondary-border-color {
   border-color: var(--secondary);
 }
-.has-secondary-hover {
+.has-secondary-hover-color {
   color: var(--secondary-hover);
 }
 .has-secondary-hover-background-color {
@@ -809,7 +809,7 @@
 .has-secondary-hover-border-color {
   border-color: var(--secondary-hover);
 }
-.has-secondary-ultra-light {
+.has-secondary-ultra-light-color {
   color: var(--secondary-ultra-light);
 }
 .has-secondary-ultra-light-background-color {
@@ -818,7 +818,7 @@
 .has-secondary-ultra-light-border-color {
   border-color: var(--secondary-ultra-light);
 }
-.has-secondary-light {
+.has-secondary-light-color {
   color: var(--secondary-light);
 }
 .has-secondary-light-background-color {
@@ -827,7 +827,7 @@
 .has-secondary-light-border-color {
   border-color: var(--secondary-light);
 }
-.has-secondary-medium {
+.has-secondary-medium-color {
   color: var(--secondary-medium);
 }
 .has-secondary-medium-background-color {
@@ -836,7 +836,7 @@
 .has-secondary-medium-border-color {
   border-color: var(--secondary-medium);
 }
-.has-secondary-dark {
+.has-secondary-dark-color {
   color: var(--secondary-dark);
 }
 .has-secondary-dark-background-color {
@@ -845,7 +845,7 @@
 .has-secondary-dark-border-color {
   border-color: var(--secondary-dark);
 }
-.has-secondary-ultra-dark {
+.has-secondary-ultra-dark-color {
   color: var(--secondary-ultra-dark);
 }
 .has-secondary-ultra-dark-background-color {
@@ -854,7 +854,7 @@
 .has-secondary-ultra-dark-border-color {
   border-color: var(--secondary-ultra-dark);
 }
-.has-secondary-comp {
+.has-secondary-comp-color {
   color: var(--secondary-comp);
 }
 .has-secondary-comp-background-color {
@@ -863,7 +863,7 @@
 .has-secondary-comp-border-color {
   border-color: var(--secondary-comp);
 }
-.has-secondary-trans-10 {
+.has-secondary-trans-10-color {
   color: var(--secondary-trans-10);
 }
 .has-secondary-trans-10-background-color {
@@ -872,7 +872,7 @@
 .has-secondary-trans-10-border-color {
   border-color: var(--secondary-trans-10);
 }
-.has-secondary-trans-20 {
+.has-secondary-trans-20-color {
   color: var(--secondary-trans-20);
 }
 .has-secondary-trans-20-background-color {
@@ -881,7 +881,7 @@
 .has-secondary-trans-20-border-color {
   border-color: var(--secondary-trans-20);
 }
-.has-secondary-trans-30 {
+.has-secondary-trans-30-color {
   color: var(--secondary-trans-30);
 }
 .has-secondary-trans-30-background-color {
@@ -890,7 +890,7 @@
 .has-secondary-trans-30-border-color {
   border-color: var(--secondary-trans-30);
 }
-.has-secondary-trans-40 {
+.has-secondary-trans-40-color {
   color: var(--secondary-trans-40);
 }
 .has-secondary-trans-40-background-color {
@@ -899,7 +899,7 @@
 .has-secondary-trans-40-border-color {
   border-color: var(--secondary-trans-40);
 }
-.has-secondary-trans-50 {
+.has-secondary-trans-50-color {
   color: var(--secondary-trans-50);
 }
 .has-secondary-trans-50-background-color {
@@ -908,7 +908,7 @@
 .has-secondary-trans-50-border-color {
   border-color: var(--secondary-trans-50);
 }
-.has-secondary-trans-60 {
+.has-secondary-trans-60-color {
   color: var(--secondary-trans-60);
 }
 .has-secondary-trans-60-background-color {
@@ -917,7 +917,7 @@
 .has-secondary-trans-60-border-color {
   border-color: var(--secondary-trans-60);
 }
-.has-secondary-trans-70 {
+.has-secondary-trans-70-color {
   color: var(--secondary-trans-70);
 }
 .has-secondary-trans-70-background-color {
@@ -926,7 +926,7 @@
 .has-secondary-trans-70-border-color {
   border-color: var(--secondary-trans-70);
 }
-.has-secondary-trans-80 {
+.has-secondary-trans-80-color {
   color: var(--secondary-trans-80);
 }
 .has-secondary-trans-80-background-color {
@@ -935,7 +935,7 @@
 .has-secondary-trans-80-border-color {
   border-color: var(--secondary-trans-80);
 }
-.has-secondary-trans-90 {
+.has-secondary-trans-90-color {
   color: var(--secondary-trans-90);
 }
 .has-secondary-trans-90-background-color {
@@ -944,7 +944,7 @@
 .has-secondary-trans-90-border-color {
   border-color: var(--secondary-trans-90);
 }
-.has-secondary-light-trans-10 {
+.has-secondary-light-trans-10-color {
   color: var(--secondary-light-trans-10);
 }
 .has-secondary-light-trans-10-background-color {
@@ -953,7 +953,7 @@
 .has-secondary-light-trans-10-border-color {
   border-color: var(--secondary-light-trans-10);
 }
-.has-secondary-light-trans-20 {
+.has-secondary-light-trans-20-color {
   color: var(--secondary-light-trans-20);
 }
 .has-secondary-light-trans-20-background-color {
@@ -962,7 +962,7 @@
 .has-secondary-light-trans-20-border-color {
   border-color: var(--secondary-light-trans-20);
 }
-.has-secondary-light-trans-30 {
+.has-secondary-light-trans-30-color {
   color: var(--secondary-light-trans-30);
 }
 .has-secondary-light-trans-30-background-color {
@@ -971,7 +971,7 @@
 .has-secondary-light-trans-30-border-color {
   border-color: var(--secondary-light-trans-30);
 }
-.has-secondary-light-trans-40 {
+.has-secondary-light-trans-40-color {
   color: var(--secondary-light-trans-40);
 }
 .has-secondary-light-trans-40-background-color {
@@ -980,7 +980,7 @@
 .has-secondary-light-trans-40-border-color {
   border-color: var(--secondary-light-trans-40);
 }
-.has-secondary-light-trans-50 {
+.has-secondary-light-trans-50-color {
   color: var(--secondary-light-trans-50);
 }
 .has-secondary-light-trans-50-background-color {
@@ -989,7 +989,7 @@
 .has-secondary-light-trans-50-border-color {
   border-color: var(--secondary-light-trans-50);
 }
-.has-secondary-light-trans-60 {
+.has-secondary-light-trans-60-color {
   color: var(--secondary-light-trans-60);
 }
 .has-secondary-light-trans-60-background-color {
@@ -998,7 +998,7 @@
 .has-secondary-light-trans-60-border-color {
   border-color: var(--secondary-light-trans-60);
 }
-.has-secondary-light-trans-70 {
+.has-secondary-light-trans-70-color {
   color: var(--secondary-light-trans-70);
 }
 .has-secondary-light-trans-70-background-color {
@@ -1007,7 +1007,7 @@
 .has-secondary-light-trans-70-border-color {
   border-color: var(--secondary-light-trans-70);
 }
-.has-secondary-light-trans-80 {
+.has-secondary-light-trans-80-color {
   color: var(--secondary-light-trans-80);
 }
 .has-secondary-light-trans-80-background-color {
@@ -1016,7 +1016,7 @@
 .has-secondary-light-trans-80-border-color {
   border-color: var(--secondary-light-trans-80);
 }
-.has-secondary-light-trans-90 {
+.has-secondary-light-trans-90-color {
   color: var(--secondary-light-trans-90);
 }
 .has-secondary-light-trans-90-background-color {
@@ -1025,7 +1025,7 @@
 .has-secondary-light-trans-90-border-color {
   border-color: var(--secondary-light-trans-90);
 }
-.has-secondary-dark-trans-10 {
+.has-secondary-dark-trans-10-color {
   color: var(--secondary-dark-trans-10);
 }
 .has-secondary-dark-trans-10-background-color {
@@ -1034,7 +1034,7 @@
 .has-secondary-dark-trans-10-border-color {
   border-color: var(--secondary-dark-trans-10);
 }
-.has-secondary-dark-trans-20 {
+.has-secondary-dark-trans-20-color {
   color: var(--secondary-dark-trans-20);
 }
 .has-secondary-dark-trans-20-background-color {
@@ -1043,7 +1043,7 @@
 .has-secondary-dark-trans-20-border-color {
   border-color: var(--secondary-dark-trans-20);
 }
-.has-secondary-dark-trans-30 {
+.has-secondary-dark-trans-30-color {
   color: var(--secondary-dark-trans-30);
 }
 .has-secondary-dark-trans-30-background-color {
@@ -1052,7 +1052,7 @@
 .has-secondary-dark-trans-30-border-color {
   border-color: var(--secondary-dark-trans-30);
 }
-.has-secondary-dark-trans-40 {
+.has-secondary-dark-trans-40-color {
   color: var(--secondary-dark-trans-40);
 }
 .has-secondary-dark-trans-40-background-color {
@@ -1061,7 +1061,7 @@
 .has-secondary-dark-trans-40-border-color {
   border-color: var(--secondary-dark-trans-40);
 }
-.has-secondary-dark-trans-50 {
+.has-secondary-dark-trans-50-color {
   color: var(--secondary-dark-trans-50);
 }
 .has-secondary-dark-trans-50-background-color {
@@ -1070,7 +1070,7 @@
 .has-secondary-dark-trans-50-border-color {
   border-color: var(--secondary-dark-trans-50);
 }
-.has-secondary-dark-trans-60 {
+.has-secondary-dark-trans-60-color {
   color: var(--secondary-dark-trans-60);
 }
 .has-secondary-dark-trans-60-background-color {
@@ -1079,7 +1079,7 @@
 .has-secondary-dark-trans-60-border-color {
   border-color: var(--secondary-dark-trans-60);
 }
-.has-secondary-dark-trans-70 {
+.has-secondary-dark-trans-70-color {
   color: var(--secondary-dark-trans-70);
 }
 .has-secondary-dark-trans-70-background-color {
@@ -1088,7 +1088,7 @@
 .has-secondary-dark-trans-70-border-color {
   border-color: var(--secondary-dark-trans-70);
 }
-.has-secondary-dark-trans-80 {
+.has-secondary-dark-trans-80-color {
   color: var(--secondary-dark-trans-80);
 }
 .has-secondary-dark-trans-80-background-color {
@@ -1097,7 +1097,7 @@
 .has-secondary-dark-trans-80-border-color {
   border-color: var(--secondary-dark-trans-80);
 }
-.has-secondary-dark-trans-90 {
+.has-secondary-dark-trans-90-color {
   color: var(--secondary-dark-trans-90);
 }
 .has-secondary-dark-trans-90-background-color {
@@ -1106,7 +1106,7 @@
 .has-secondary-dark-trans-90-border-color {
   border-color: var(--secondary-dark-trans-90);
 }
-.has-secondary-ultra-dark-trans-10 {
+.has-secondary-ultra-dark-trans-10-color {
   color: var(--secondary-ultra-dark-trans-10);
 }
 .has-secondary-ultra-dark-trans-10-background-color {
@@ -1115,7 +1115,7 @@
 .has-secondary-ultra-dark-trans-10-border-color {
   border-color: var(--secondary-ultra-dark-trans-10);
 }
-.has-secondary-ultra-dark-trans-20 {
+.has-secondary-ultra-dark-trans-20-color {
   color: var(--secondary-ultra-dark-trans-20);
 }
 .has-secondary-ultra-dark-trans-20-background-color {
@@ -1124,7 +1124,7 @@
 .has-secondary-ultra-dark-trans-20-border-color {
   border-color: var(--secondary-ultra-dark-trans-20);
 }
-.has-secondary-ultra-dark-trans-30 {
+.has-secondary-ultra-dark-trans-30-color {
   color: var(--secondary-ultra-dark-trans-30);
 }
 .has-secondary-ultra-dark-trans-30-background-color {
@@ -1133,7 +1133,7 @@
 .has-secondary-ultra-dark-trans-30-border-color {
   border-color: var(--secondary-ultra-dark-trans-30);
 }
-.has-secondary-ultra-dark-trans-40 {
+.has-secondary-ultra-dark-trans-40-color {
   color: var(--secondary-ultra-dark-trans-40);
 }
 .has-secondary-ultra-dark-trans-40-background-color {
@@ -1142,7 +1142,7 @@
 .has-secondary-ultra-dark-trans-40-border-color {
   border-color: var(--secondary-ultra-dark-trans-40);
 }
-.has-secondary-ultra-dark-trans-50 {
+.has-secondary-ultra-dark-trans-50-color {
   color: var(--secondary-ultra-dark-trans-50);
 }
 .has-secondary-ultra-dark-trans-50-background-color {
@@ -1151,7 +1151,7 @@
 .has-secondary-ultra-dark-trans-50-border-color {
   border-color: var(--secondary-ultra-dark-trans-50);
 }
-.has-secondary-ultra-dark-trans-60 {
+.has-secondary-ultra-dark-trans-60-color {
   color: var(--secondary-ultra-dark-trans-60);
 }
 .has-secondary-ultra-dark-trans-60-background-color {
@@ -1160,7 +1160,7 @@
 .has-secondary-ultra-dark-trans-60-border-color {
   border-color: var(--secondary-ultra-dark-trans-60);
 }
-.has-secondary-ultra-dark-trans-70 {
+.has-secondary-ultra-dark-trans-70-color {
   color: var(--secondary-ultra-dark-trans-70);
 }
 .has-secondary-ultra-dark-trans-70-background-color {
@@ -1169,7 +1169,7 @@
 .has-secondary-ultra-dark-trans-70-border-color {
   border-color: var(--secondary-ultra-dark-trans-70);
 }
-.has-secondary-ultra-dark-trans-80 {
+.has-secondary-ultra-dark-trans-80-color {
   color: var(--secondary-ultra-dark-trans-80);
 }
 .has-secondary-ultra-dark-trans-80-background-color {
@@ -1178,7 +1178,7 @@
 .has-secondary-ultra-dark-trans-80-border-color {
   border-color: var(--secondary-ultra-dark-trans-80);
 }
-.has-secondary-ultra-dark-trans-90 {
+.has-secondary-ultra-dark-trans-90-color {
   color: var(--secondary-ultra-dark-trans-90);
 }
 .has-secondary-ultra-dark-trans-90-background-color {
@@ -1187,7 +1187,7 @@
 .has-secondary-ultra-dark-trans-90-border-color {
   border-color: var(--secondary-ultra-dark-trans-90);
 }
-.has-accent {
+.has-accent-color {
   color: var(--accent);
 }
 .has-accent-background-color {
@@ -1196,7 +1196,7 @@
 .has-accent-border-color {
   border-color: var(--accent);
 }
-.has-accent-hover {
+.has-accent-hover-color {
   color: var(--accent-hover);
 }
 .has-accent-hover-background-color {
@@ -1205,7 +1205,7 @@
 .has-accent-hover-border-color {
   border-color: var(--accent-hover);
 }
-.has-accent-ultra-light {
+.has-accent-ultra-light-color {
   color: var(--accent-ultra-light);
 }
 .has-accent-ultra-light-background-color {
@@ -1214,7 +1214,7 @@
 .has-accent-ultra-light-border-color {
   border-color: var(--accent-ultra-light);
 }
-.has-accent-light {
+.has-accent-light-color {
   color: var(--accent-light);
 }
 .has-accent-light-background-color {
@@ -1223,7 +1223,7 @@
 .has-accent-light-border-color {
   border-color: var(--accent-light);
 }
-.has-accent-medium {
+.has-accent-medium-color {
   color: var(--accent-medium);
 }
 .has-accent-medium-background-color {
@@ -1232,7 +1232,7 @@
 .has-accent-medium-border-color {
   border-color: var(--accent-medium);
 }
-.has-accent-dark {
+.has-accent-dark-color {
   color: var(--accent-dark);
 }
 .has-accent-dark-background-color {
@@ -1241,7 +1241,7 @@
 .has-accent-dark-border-color {
   border-color: var(--accent-dark);
 }
-.has-accent-ultra-dark {
+.has-accent-ultra-dark-color {
   color: var(--accent-ultra-dark);
 }
 .has-accent-ultra-dark-background-color {
@@ -1250,7 +1250,7 @@
 .has-accent-ultra-dark-border-color {
   border-color: var(--accent-ultra-dark);
 }
-.has-accent-comp {
+.has-accent-comp-color {
   color: var(--accent-comp);
 }
 .has-accent-comp-background-color {
@@ -1259,7 +1259,7 @@
 .has-accent-comp-border-color {
   border-color: var(--accent-comp);
 }
-.has-accent-trans-10 {
+.has-accent-trans-10-color {
   color: var(--accent-trans-10);
 }
 .has-accent-trans-10-background-color {
@@ -1268,7 +1268,7 @@
 .has-accent-trans-10-border-color {
   border-color: var(--accent-trans-10);
 }
-.has-accent-trans-20 {
+.has-accent-trans-20-color {
   color: var(--accent-trans-20);
 }
 .has-accent-trans-20-background-color {
@@ -1277,7 +1277,7 @@
 .has-accent-trans-20-border-color {
   border-color: var(--accent-trans-20);
 }
-.has-accent-trans-30 {
+.has-accent-trans-30-color {
   color: var(--accent-trans-30);
 }
 .has-accent-trans-30-background-color {
@@ -1286,7 +1286,7 @@
 .has-accent-trans-30-border-color {
   border-color: var(--accent-trans-30);
 }
-.has-accent-trans-40 {
+.has-accent-trans-40-color {
   color: var(--accent-trans-40);
 }
 .has-accent-trans-40-background-color {
@@ -1295,7 +1295,7 @@
 .has-accent-trans-40-border-color {
   border-color: var(--accent-trans-40);
 }
-.has-accent-trans-50 {
+.has-accent-trans-50-color {
   color: var(--accent-trans-50);
 }
 .has-accent-trans-50-background-color {
@@ -1304,7 +1304,7 @@
 .has-accent-trans-50-border-color {
   border-color: var(--accent-trans-50);
 }
-.has-accent-trans-60 {
+.has-accent-trans-60-color {
   color: var(--accent-trans-60);
 }
 .has-accent-trans-60-background-color {
@@ -1313,7 +1313,7 @@
 .has-accent-trans-60-border-color {
   border-color: var(--accent-trans-60);
 }
-.has-accent-trans-70 {
+.has-accent-trans-70-color {
   color: var(--accent-trans-70);
 }
 .has-accent-trans-70-background-color {
@@ -1322,7 +1322,7 @@
 .has-accent-trans-70-border-color {
   border-color: var(--accent-trans-70);
 }
-.has-accent-trans-80 {
+.has-accent-trans-80-color {
   color: var(--accent-trans-80);
 }
 .has-accent-trans-80-background-color {
@@ -1331,7 +1331,7 @@
 .has-accent-trans-80-border-color {
   border-color: var(--accent-trans-80);
 }
-.has-accent-trans-90 {
+.has-accent-trans-90-color {
   color: var(--accent-trans-90);
 }
 .has-accent-trans-90-background-color {
@@ -1340,7 +1340,7 @@
 .has-accent-trans-90-border-color {
   border-color: var(--accent-trans-90);
 }
-.has-accent-light-trans-10 {
+.has-accent-light-trans-10-color {
   color: var(--accent-light-trans-10);
 }
 .has-accent-light-trans-10-background-color {
@@ -1349,7 +1349,7 @@
 .has-accent-light-trans-10-border-color {
   border-color: var(--accent-light-trans-10);
 }
-.has-accent-light-trans-20 {
+.has-accent-light-trans-20-color {
   color: var(--accent-light-trans-20);
 }
 .has-accent-light-trans-20-background-color {
@@ -1358,7 +1358,7 @@
 .has-accent-light-trans-20-border-color {
   border-color: var(--accent-light-trans-20);
 }
-.has-accent-light-trans-30 {
+.has-accent-light-trans-30-color {
   color: var(--accent-light-trans-30);
 }
 .has-accent-light-trans-30-background-color {
@@ -1367,7 +1367,7 @@
 .has-accent-light-trans-30-border-color {
   border-color: var(--accent-light-trans-30);
 }
-.has-accent-light-trans-40 {
+.has-accent-light-trans-40-color {
   color: var(--accent-light-trans-40);
 }
 .has-accent-light-trans-40-background-color {
@@ -1376,7 +1376,7 @@
 .has-accent-light-trans-40-border-color {
   border-color: var(--accent-light-trans-40);
 }
-.has-accent-light-trans-50 {
+.has-accent-light-trans-50-color {
   color: var(--accent-light-trans-50);
 }
 .has-accent-light-trans-50-background-color {
@@ -1385,7 +1385,7 @@
 .has-accent-light-trans-50-border-color {
   border-color: var(--accent-light-trans-50);
 }
-.has-accent-light-trans-60 {
+.has-accent-light-trans-60-color {
   color: var(--accent-light-trans-60);
 }
 .has-accent-light-trans-60-background-color {
@@ -1394,7 +1394,7 @@
 .has-accent-light-trans-60-border-color {
   border-color: var(--accent-light-trans-60);
 }
-.has-accent-light-trans-70 {
+.has-accent-light-trans-70-color {
   color: var(--accent-light-trans-70);
 }
 .has-accent-light-trans-70-background-color {
@@ -1403,7 +1403,7 @@
 .has-accent-light-trans-70-border-color {
   border-color: var(--accent-light-trans-70);
 }
-.has-accent-light-trans-80 {
+.has-accent-light-trans-80-color {
   color: var(--accent-light-trans-80);
 }
 .has-accent-light-trans-80-background-color {
@@ -1412,7 +1412,7 @@
 .has-accent-light-trans-80-border-color {
   border-color: var(--accent-light-trans-80);
 }
-.has-accent-light-trans-90 {
+.has-accent-light-trans-90-color {
   color: var(--accent-light-trans-90);
 }
 .has-accent-light-trans-90-background-color {
@@ -1421,7 +1421,7 @@
 .has-accent-light-trans-90-border-color {
   border-color: var(--accent-light-trans-90);
 }
-.has-accent-dark-trans-10 {
+.has-accent-dark-trans-10-color {
   color: var(--accent-dark-trans-10);
 }
 .has-accent-dark-trans-10-background-color {
@@ -1430,7 +1430,7 @@
 .has-accent-dark-trans-10-border-color {
   border-color: var(--accent-dark-trans-10);
 }
-.has-accent-dark-trans-20 {
+.has-accent-dark-trans-20-color {
   color: var(--accent-dark-trans-20);
 }
 .has-accent-dark-trans-20-background-color {
@@ -1439,7 +1439,7 @@
 .has-accent-dark-trans-20-border-color {
   border-color: var(--accent-dark-trans-20);
 }
-.has-accent-dark-trans-30 {
+.has-accent-dark-trans-30-color {
   color: var(--accent-dark-trans-30);
 }
 .has-accent-dark-trans-30-background-color {
@@ -1448,7 +1448,7 @@
 .has-accent-dark-trans-30-border-color {
   border-color: var(--accent-dark-trans-30);
 }
-.has-accent-dark-trans-40 {
+.has-accent-dark-trans-40-color {
   color: var(--accent-dark-trans-40);
 }
 .has-accent-dark-trans-40-background-color {
@@ -1457,7 +1457,7 @@
 .has-accent-dark-trans-40-border-color {
   border-color: var(--accent-dark-trans-40);
 }
-.has-accent-dark-trans-50 {
+.has-accent-dark-trans-50-color {
   color: var(--accent-dark-trans-50);
 }
 .has-accent-dark-trans-50-background-color {
@@ -1466,7 +1466,7 @@
 .has-accent-dark-trans-50-border-color {
   border-color: var(--accent-dark-trans-50);
 }
-.has-accent-dark-trans-60 {
+.has-accent-dark-trans-60-color {
   color: var(--accent-dark-trans-60);
 }
 .has-accent-dark-trans-60-background-color {
@@ -1475,7 +1475,7 @@
 .has-accent-dark-trans-60-border-color {
   border-color: var(--accent-dark-trans-60);
 }
-.has-accent-dark-trans-70 {
+.has-accent-dark-trans-70-color {
   color: var(--accent-dark-trans-70);
 }
 .has-accent-dark-trans-70-background-color {
@@ -1484,7 +1484,7 @@
 .has-accent-dark-trans-70-border-color {
   border-color: var(--accent-dark-trans-70);
 }
-.has-accent-dark-trans-80 {
+.has-accent-dark-trans-80-color {
   color: var(--accent-dark-trans-80);
 }
 .has-accent-dark-trans-80-background-color {
@@ -1493,7 +1493,7 @@
 .has-accent-dark-trans-80-border-color {
   border-color: var(--accent-dark-trans-80);
 }
-.has-accent-dark-trans-90 {
+.has-accent-dark-trans-90-color {
   color: var(--accent-dark-trans-90);
 }
 .has-accent-dark-trans-90-background-color {
@@ -1502,7 +1502,7 @@
 .has-accent-dark-trans-90-border-color {
   border-color: var(--accent-dark-trans-90);
 }
-.has-accent-ultra-dark-trans-10 {
+.has-accent-ultra-dark-trans-10-color {
   color: var(--accent-ultra-dark-trans-10);
 }
 .has-accent-ultra-dark-trans-10-background-color {
@@ -1511,7 +1511,7 @@
 .has-accent-ultra-dark-trans-10-border-color {
   border-color: var(--accent-ultra-dark-trans-10);
 }
-.has-accent-ultra-dark-trans-20 {
+.has-accent-ultra-dark-trans-20-color {
   color: var(--accent-ultra-dark-trans-20);
 }
 .has-accent-ultra-dark-trans-20-background-color {
@@ -1520,7 +1520,7 @@
 .has-accent-ultra-dark-trans-20-border-color {
   border-color: var(--accent-ultra-dark-trans-20);
 }
-.has-accent-ultra-dark-trans-30 {
+.has-accent-ultra-dark-trans-30-color {
   color: var(--accent-ultra-dark-trans-30);
 }
 .has-accent-ultra-dark-trans-30-background-color {
@@ -1529,7 +1529,7 @@
 .has-accent-ultra-dark-trans-30-border-color {
   border-color: var(--accent-ultra-dark-trans-30);
 }
-.has-accent-ultra-dark-trans-40 {
+.has-accent-ultra-dark-trans-40-color {
   color: var(--accent-ultra-dark-trans-40);
 }
 .has-accent-ultra-dark-trans-40-background-color {
@@ -1538,7 +1538,7 @@
 .has-accent-ultra-dark-trans-40-border-color {
   border-color: var(--accent-ultra-dark-trans-40);
 }
-.has-accent-ultra-dark-trans-50 {
+.has-accent-ultra-dark-trans-50-color {
   color: var(--accent-ultra-dark-trans-50);
 }
 .has-accent-ultra-dark-trans-50-background-color {
@@ -1547,7 +1547,7 @@
 .has-accent-ultra-dark-trans-50-border-color {
   border-color: var(--accent-ultra-dark-trans-50);
 }
-.has-accent-ultra-dark-trans-60 {
+.has-accent-ultra-dark-trans-60-color {
   color: var(--accent-ultra-dark-trans-60);
 }
 .has-accent-ultra-dark-trans-60-background-color {
@@ -1556,7 +1556,7 @@
 .has-accent-ultra-dark-trans-60-border-color {
   border-color: var(--accent-ultra-dark-trans-60);
 }
-.has-accent-ultra-dark-trans-70 {
+.has-accent-ultra-dark-trans-70-color {
   color: var(--accent-ultra-dark-trans-70);
 }
 .has-accent-ultra-dark-trans-70-background-color {
@@ -1565,7 +1565,7 @@
 .has-accent-ultra-dark-trans-70-border-color {
   border-color: var(--accent-ultra-dark-trans-70);
 }
-.has-accent-ultra-dark-trans-80 {
+.has-accent-ultra-dark-trans-80-color {
   color: var(--accent-ultra-dark-trans-80);
 }
 .has-accent-ultra-dark-trans-80-background-color {
@@ -1574,7 +1574,7 @@
 .has-accent-ultra-dark-trans-80-border-color {
   border-color: var(--accent-ultra-dark-trans-80);
 }
-.has-accent-ultra-dark-trans-90 {
+.has-accent-ultra-dark-trans-90-color {
   color: var(--accent-ultra-dark-trans-90);
 }
 .has-accent-ultra-dark-trans-90-background-color {
@@ -1583,7 +1583,7 @@
 .has-accent-ultra-dark-trans-90-border-color {
   border-color: var(--accent-ultra-dark-trans-90);
 }
-.has-base {
+.has-base-color {
   color: var(--base);
 }
 .has-base-background-color {
@@ -1592,7 +1592,7 @@
 .has-base-border-color {
   border-color: var(--base);
 }
-.has-base-hover {
+.has-base-hover-color {
   color: var(--base-hover);
 }
 .has-base-hover-background-color {
@@ -1601,7 +1601,7 @@
 .has-base-hover-border-color {
   border-color: var(--base-hover);
 }
-.has-base-ultra-light {
+.has-base-ultra-light-color {
   color: var(--base-ultra-light);
 }
 .has-base-ultra-light-background-color {
@@ -1610,7 +1610,7 @@
 .has-base-ultra-light-border-color {
   border-color: var(--base-ultra-light);
 }
-.has-base-light {
+.has-base-light-color {
   color: var(--base-light);
 }
 .has-base-light-background-color {
@@ -1619,7 +1619,7 @@
 .has-base-light-border-color {
   border-color: var(--base-light);
 }
-.has-base-medium {
+.has-base-medium-color {
   color: var(--base-medium);
 }
 .has-base-medium-background-color {
@@ -1628,7 +1628,7 @@
 .has-base-medium-border-color {
   border-color: var(--base-medium);
 }
-.has-base-dark {
+.has-base-dark-color {
   color: var(--base-dark);
 }
 .has-base-dark-background-color {
@@ -1637,7 +1637,7 @@
 .has-base-dark-border-color {
   border-color: var(--base-dark);
 }
-.has-base-ultra-dark {
+.has-base-ultra-dark-color {
   color: var(--base-ultra-dark);
 }
 .has-base-ultra-dark-background-color {
@@ -1646,7 +1646,7 @@
 .has-base-ultra-dark-border-color {
   border-color: var(--base-ultra-dark);
 }
-.has-base-comp {
+.has-base-comp-color {
   color: var(--base-comp);
 }
 .has-base-comp-background-color {
@@ -1655,7 +1655,7 @@
 .has-base-comp-border-color {
   border-color: var(--base-comp);
 }
-.has-base-trans-10 {
+.has-base-trans-10-color {
   color: var(--base-trans-10);
 }
 .has-base-trans-10-background-color {
@@ -1664,7 +1664,7 @@
 .has-base-trans-10-border-color {
   border-color: var(--base-trans-10);
 }
-.has-base-trans-20 {
+.has-base-trans-20-color {
   color: var(--base-trans-20);
 }
 .has-base-trans-20-background-color {
@@ -1673,7 +1673,7 @@
 .has-base-trans-20-border-color {
   border-color: var(--base-trans-20);
 }
-.has-base-trans-30 {
+.has-base-trans-30-color {
   color: var(--base-trans-30);
 }
 .has-base-trans-30-background-color {
@@ -1682,7 +1682,7 @@
 .has-base-trans-30-border-color {
   border-color: var(--base-trans-30);
 }
-.has-base-trans-40 {
+.has-base-trans-40-color {
   color: var(--base-trans-40);
 }
 .has-base-trans-40-background-color {
@@ -1691,7 +1691,7 @@
 .has-base-trans-40-border-color {
   border-color: var(--base-trans-40);
 }
-.has-base-trans-50 {
+.has-base-trans-50-color {
   color: var(--base-trans-50);
 }
 .has-base-trans-50-background-color {
@@ -1700,7 +1700,7 @@
 .has-base-trans-50-border-color {
   border-color: var(--base-trans-50);
 }
-.has-base-trans-60 {
+.has-base-trans-60-color {
   color: var(--base-trans-60);
 }
 .has-base-trans-60-background-color {
@@ -1709,7 +1709,7 @@
 .has-base-trans-60-border-color {
   border-color: var(--base-trans-60);
 }
-.has-base-trans-70 {
+.has-base-trans-70-color {
   color: var(--base-trans-70);
 }
 .has-base-trans-70-background-color {
@@ -1718,7 +1718,7 @@
 .has-base-trans-70-border-color {
   border-color: var(--base-trans-70);
 }
-.has-base-trans-80 {
+.has-base-trans-80-color {
   color: var(--base-trans-80);
 }
 .has-base-trans-80-background-color {
@@ -1727,7 +1727,7 @@
 .has-base-trans-80-border-color {
   border-color: var(--base-trans-80);
 }
-.has-base-trans-90 {
+.has-base-trans-90-color {
   color: var(--base-trans-90);
 }
 .has-base-trans-90-background-color {
@@ -1736,7 +1736,7 @@
 .has-base-trans-90-border-color {
   border-color: var(--base-trans-90);
 }
-.has-base-light-trans-10 {
+.has-base-light-trans-10-color {
   color: var(--base-light-trans-10);
 }
 .has-base-light-trans-10-background-color {
@@ -1745,7 +1745,7 @@
 .has-base-light-trans-10-border-color {
   border-color: var(--base-light-trans-10);
 }
-.has-base-light-trans-20 {
+.has-base-light-trans-20-color {
   color: var(--base-light-trans-20);
 }
 .has-base-light-trans-20-background-color {
@@ -1754,7 +1754,7 @@
 .has-base-light-trans-20-border-color {
   border-color: var(--base-light-trans-20);
 }
-.has-base-light-trans-30 {
+.has-base-light-trans-30-color {
   color: var(--base-light-trans-30);
 }
 .has-base-light-trans-30-background-color {
@@ -1763,7 +1763,7 @@
 .has-base-light-trans-30-border-color {
   border-color: var(--base-light-trans-30);
 }
-.has-base-light-trans-40 {
+.has-base-light-trans-40-color {
   color: var(--base-light-trans-40);
 }
 .has-base-light-trans-40-background-color {
@@ -1772,7 +1772,7 @@
 .has-base-light-trans-40-border-color {
   border-color: var(--base-light-trans-40);
 }
-.has-base-light-trans-50 {
+.has-base-light-trans-50-color {
   color: var(--base-light-trans-50);
 }
 .has-base-light-trans-50-background-color {
@@ -1781,7 +1781,7 @@
 .has-base-light-trans-50-border-color {
   border-color: var(--base-light-trans-50);
 }
-.has-base-light-trans-60 {
+.has-base-light-trans-60-color {
   color: var(--base-light-trans-60);
 }
 .has-base-light-trans-60-background-color {
@@ -1790,7 +1790,7 @@
 .has-base-light-trans-60-border-color {
   border-color: var(--base-light-trans-60);
 }
-.has-base-light-trans-70 {
+.has-base-light-trans-70-color {
   color: var(--base-light-trans-70);
 }
 .has-base-light-trans-70-background-color {
@@ -1799,7 +1799,7 @@
 .has-base-light-trans-70-border-color {
   border-color: var(--base-light-trans-70);
 }
-.has-base-light-trans-80 {
+.has-base-light-trans-80-color {
   color: var(--base-light-trans-80);
 }
 .has-base-light-trans-80-background-color {
@@ -1808,7 +1808,7 @@
 .has-base-light-trans-80-border-color {
   border-color: var(--base-light-trans-80);
 }
-.has-base-light-trans-90 {
+.has-base-light-trans-90-color {
   color: var(--base-light-trans-90);
 }
 .has-base-light-trans-90-background-color {
@@ -1817,7 +1817,7 @@
 .has-base-light-trans-90-border-color {
   border-color: var(--base-light-trans-90);
 }
-.has-base-dark-trans-10 {
+.has-base-dark-trans-10-color {
   color: var(--base-dark-trans-10);
 }
 .has-base-dark-trans-10-background-color {
@@ -1826,7 +1826,7 @@
 .has-base-dark-trans-10-border-color {
   border-color: var(--base-dark-trans-10);
 }
-.has-base-dark-trans-20 {
+.has-base-dark-trans-20-color {
   color: var(--base-dark-trans-20);
 }
 .has-base-dark-trans-20-background-color {
@@ -1835,7 +1835,7 @@
 .has-base-dark-trans-20-border-color {
   border-color: var(--base-dark-trans-20);
 }
-.has-base-dark-trans-30 {
+.has-base-dark-trans-30-color {
   color: var(--base-dark-trans-30);
 }
 .has-base-dark-trans-30-background-color {
@@ -1844,7 +1844,7 @@
 .has-base-dark-trans-30-border-color {
   border-color: var(--base-dark-trans-30);
 }
-.has-base-dark-trans-40 {
+.has-base-dark-trans-40-color {
   color: var(--base-dark-trans-40);
 }
 .has-base-dark-trans-40-background-color {
@@ -1853,7 +1853,7 @@
 .has-base-dark-trans-40-border-color {
   border-color: var(--base-dark-trans-40);
 }
-.has-base-dark-trans-50 {
+.has-base-dark-trans-50-color {
   color: var(--base-dark-trans-50);
 }
 .has-base-dark-trans-50-background-color {
@@ -1862,7 +1862,7 @@
 .has-base-dark-trans-50-border-color {
   border-color: var(--base-dark-trans-50);
 }
-.has-base-dark-trans-60 {
+.has-base-dark-trans-60-color {
   color: var(--base-dark-trans-60);
 }
 .has-base-dark-trans-60-background-color {
@@ -1871,7 +1871,7 @@
 .has-base-dark-trans-60-border-color {
   border-color: var(--base-dark-trans-60);
 }
-.has-base-dark-trans-70 {
+.has-base-dark-trans-70-color {
   color: var(--base-dark-trans-70);
 }
 .has-base-dark-trans-70-background-color {
@@ -1880,7 +1880,7 @@
 .has-base-dark-trans-70-border-color {
   border-color: var(--base-dark-trans-70);
 }
-.has-base-dark-trans-80 {
+.has-base-dark-trans-80-color {
   color: var(--base-dark-trans-80);
 }
 .has-base-dark-trans-80-background-color {
@@ -1889,7 +1889,7 @@
 .has-base-dark-trans-80-border-color {
   border-color: var(--base-dark-trans-80);
 }
-.has-base-dark-trans-90 {
+.has-base-dark-trans-90-color {
   color: var(--base-dark-trans-90);
 }
 .has-base-dark-trans-90-background-color {
@@ -1898,7 +1898,7 @@
 .has-base-dark-trans-90-border-color {
   border-color: var(--base-dark-trans-90);
 }
-.has-base-ultra-dark-trans-10 {
+.has-base-ultra-dark-trans-10-color {
   color: var(--base-ultra-dark-trans-10);
 }
 .has-base-ultra-dark-trans-10-background-color {
@@ -1907,7 +1907,7 @@
 .has-base-ultra-dark-trans-10-border-color {
   border-color: var(--base-ultra-dark-trans-10);
 }
-.has-base-ultra-dark-trans-20 {
+.has-base-ultra-dark-trans-20-color {
   color: var(--base-ultra-dark-trans-20);
 }
 .has-base-ultra-dark-trans-20-background-color {
@@ -1916,7 +1916,7 @@
 .has-base-ultra-dark-trans-20-border-color {
   border-color: var(--base-ultra-dark-trans-20);
 }
-.has-base-ultra-dark-trans-30 {
+.has-base-ultra-dark-trans-30-color {
   color: var(--base-ultra-dark-trans-30);
 }
 .has-base-ultra-dark-trans-30-background-color {
@@ -1925,7 +1925,7 @@
 .has-base-ultra-dark-trans-30-border-color {
   border-color: var(--base-ultra-dark-trans-30);
 }
-.has-base-ultra-dark-trans-40 {
+.has-base-ultra-dark-trans-40-color {
   color: var(--base-ultra-dark-trans-40);
 }
 .has-base-ultra-dark-trans-40-background-color {
@@ -1934,7 +1934,7 @@
 .has-base-ultra-dark-trans-40-border-color {
   border-color: var(--base-ultra-dark-trans-40);
 }
-.has-base-ultra-dark-trans-50 {
+.has-base-ultra-dark-trans-50-color {
   color: var(--base-ultra-dark-trans-50);
 }
 .has-base-ultra-dark-trans-50-background-color {
@@ -1943,7 +1943,7 @@
 .has-base-ultra-dark-trans-50-border-color {
   border-color: var(--base-ultra-dark-trans-50);
 }
-.has-base-ultra-dark-trans-60 {
+.has-base-ultra-dark-trans-60-color {
   color: var(--base-ultra-dark-trans-60);
 }
 .has-base-ultra-dark-trans-60-background-color {
@@ -1952,7 +1952,7 @@
 .has-base-ultra-dark-trans-60-border-color {
   border-color: var(--base-ultra-dark-trans-60);
 }
-.has-base-ultra-dark-trans-70 {
+.has-base-ultra-dark-trans-70-color {
   color: var(--base-ultra-dark-trans-70);
 }
 .has-base-ultra-dark-trans-70-background-color {
@@ -1961,7 +1961,7 @@
 .has-base-ultra-dark-trans-70-border-color {
   border-color: var(--base-ultra-dark-trans-70);
 }
-.has-base-ultra-dark-trans-80 {
+.has-base-ultra-dark-trans-80-color {
   color: var(--base-ultra-dark-trans-80);
 }
 .has-base-ultra-dark-trans-80-background-color {
@@ -1970,7 +1970,7 @@
 .has-base-ultra-dark-trans-80-border-color {
   border-color: var(--base-ultra-dark-trans-80);
 }
-.has-base-ultra-dark-trans-90 {
+.has-base-ultra-dark-trans-90-color {
   color: var(--base-ultra-dark-trans-90);
 }
 .has-base-ultra-dark-trans-90-background-color {
@@ -1979,7 +1979,7 @@
 .has-base-ultra-dark-trans-90-border-color {
   border-color: var(--base-ultra-dark-trans-90);
 }
-.has-shade {
+.has-shade-color {
   color: var(--shade);
 }
 .has-shade-background-color {
@@ -1988,7 +1988,7 @@
 .has-shade-border-color {
   border-color: var(--shade);
 }
-.has-shade-hover {
+.has-shade-hover-color {
   color: var(--shade-hover);
 }
 .has-shade-hover-background-color {
@@ -1997,7 +1997,7 @@
 .has-shade-hover-border-color {
   border-color: var(--shade-hover);
 }
-.has-shade-ultra-light {
+.has-shade-ultra-light-color {
   color: var(--shade-ultra-light);
 }
 .has-shade-ultra-light-background-color {
@@ -2006,7 +2006,7 @@
 .has-shade-ultra-light-border-color {
   border-color: var(--shade-ultra-light);
 }
-.has-shade-light {
+.has-shade-light-color {
   color: var(--shade-light);
 }
 .has-shade-light-background-color {
@@ -2015,7 +2015,7 @@
 .has-shade-light-border-color {
   border-color: var(--shade-light);
 }
-.has-shade-medium {
+.has-shade-medium-color {
   color: var(--shade-medium);
 }
 .has-shade-medium-background-color {
@@ -2024,7 +2024,7 @@
 .has-shade-medium-border-color {
   border-color: var(--shade-medium);
 }
-.has-shade-dark {
+.has-shade-dark-color {
   color: var(--shade-dark);
 }
 .has-shade-dark-background-color {
@@ -2033,7 +2033,7 @@
 .has-shade-dark-border-color {
   border-color: var(--shade-dark);
 }
-.has-shade-ultra-dark {
+.has-shade-ultra-dark-color {
   color: var(--shade-ultra-dark);
 }
 .has-shade-ultra-dark-background-color {
@@ -2042,7 +2042,7 @@
 .has-shade-ultra-dark-border-color {
   border-color: var(--shade-ultra-dark);
 }
-.has-shade-comp {
+.has-shade-comp-color {
   color: var(--shade-comp);
 }
 .has-shade-comp-background-color {
@@ -2051,7 +2051,7 @@
 .has-shade-comp-border-color {
   border-color: var(--shade-comp);
 }
-.has-shade-trans-10 {
+.has-shade-trans-10-color {
   color: var(--shade-trans-10);
 }
 .has-shade-trans-10-background-color {
@@ -2060,7 +2060,7 @@
 .has-shade-trans-10-border-color {
   border-color: var(--shade-trans-10);
 }
-.has-shade-trans-20 {
+.has-shade-trans-20-color {
   color: var(--shade-trans-20);
 }
 .has-shade-trans-20-background-color {
@@ -2069,7 +2069,7 @@
 .has-shade-trans-20-border-color {
   border-color: var(--shade-trans-20);
 }
-.has-shade-trans-30 {
+.has-shade-trans-30-color {
   color: var(--shade-trans-30);
 }
 .has-shade-trans-30-background-color {
@@ -2078,7 +2078,7 @@
 .has-shade-trans-30-border-color {
   border-color: var(--shade-trans-30);
 }
-.has-shade-trans-40 {
+.has-shade-trans-40-color {
   color: var(--shade-trans-40);
 }
 .has-shade-trans-40-background-color {
@@ -2087,7 +2087,7 @@
 .has-shade-trans-40-border-color {
   border-color: var(--shade-trans-40);
 }
-.has-shade-trans-50 {
+.has-shade-trans-50-color {
   color: var(--shade-trans-50);
 }
 .has-shade-trans-50-background-color {
@@ -2096,7 +2096,7 @@
 .has-shade-trans-50-border-color {
   border-color: var(--shade-trans-50);
 }
-.has-shade-trans-60 {
+.has-shade-trans-60-color {
   color: var(--shade-trans-60);
 }
 .has-shade-trans-60-background-color {
@@ -2105,7 +2105,7 @@
 .has-shade-trans-60-border-color {
   border-color: var(--shade-trans-60);
 }
-.has-shade-trans-70 {
+.has-shade-trans-70-color {
   color: var(--shade-trans-70);
 }
 .has-shade-trans-70-background-color {
@@ -2114,7 +2114,7 @@
 .has-shade-trans-70-border-color {
   border-color: var(--shade-trans-70);
 }
-.has-shade-trans-80 {
+.has-shade-trans-80-color {
   color: var(--shade-trans-80);
 }
 .has-shade-trans-80-background-color {
@@ -2123,7 +2123,7 @@
 .has-shade-trans-80-border-color {
   border-color: var(--shade-trans-80);
 }
-.has-shade-trans-90 {
+.has-shade-trans-90-color {
   color: var(--shade-trans-90);
 }
 .has-shade-trans-90-background-color {
@@ -2132,7 +2132,7 @@
 .has-shade-trans-90-border-color {
   border-color: var(--shade-trans-90);
 }
-.has-shade-light-trans-10 {
+.has-shade-light-trans-10-color {
   color: var(--shade-light-trans-10);
 }
 .has-shade-light-trans-10-background-color {
@@ -2141,7 +2141,7 @@
 .has-shade-light-trans-10-border-color {
   border-color: var(--shade-light-trans-10);
 }
-.has-shade-light-trans-20 {
+.has-shade-light-trans-20-color {
   color: var(--shade-light-trans-20);
 }
 .has-shade-light-trans-20-background-color {
@@ -2150,7 +2150,7 @@
 .has-shade-light-trans-20-border-color {
   border-color: var(--shade-light-trans-20);
 }
-.has-shade-light-trans-30 {
+.has-shade-light-trans-30-color {
   color: var(--shade-light-trans-30);
 }
 .has-shade-light-trans-30-background-color {
@@ -2159,7 +2159,7 @@
 .has-shade-light-trans-30-border-color {
   border-color: var(--shade-light-trans-30);
 }
-.has-shade-light-trans-40 {
+.has-shade-light-trans-40-color {
   color: var(--shade-light-trans-40);
 }
 .has-shade-light-trans-40-background-color {
@@ -2168,7 +2168,7 @@
 .has-shade-light-trans-40-border-color {
   border-color: var(--shade-light-trans-40);
 }
-.has-shade-light-trans-50 {
+.has-shade-light-trans-50-color {
   color: var(--shade-light-trans-50);
 }
 .has-shade-light-trans-50-background-color {
@@ -2177,7 +2177,7 @@
 .has-shade-light-trans-50-border-color {
   border-color: var(--shade-light-trans-50);
 }
-.has-shade-light-trans-60 {
+.has-shade-light-trans-60-color {
   color: var(--shade-light-trans-60);
 }
 .has-shade-light-trans-60-background-color {
@@ -2186,7 +2186,7 @@
 .has-shade-light-trans-60-border-color {
   border-color: var(--shade-light-trans-60);
 }
-.has-shade-light-trans-70 {
+.has-shade-light-trans-70-color {
   color: var(--shade-light-trans-70);
 }
 .has-shade-light-trans-70-background-color {
@@ -2195,7 +2195,7 @@
 .has-shade-light-trans-70-border-color {
   border-color: var(--shade-light-trans-70);
 }
-.has-shade-light-trans-80 {
+.has-shade-light-trans-80-color {
   color: var(--shade-light-trans-80);
 }
 .has-shade-light-trans-80-background-color {
@@ -2204,7 +2204,7 @@
 .has-shade-light-trans-80-border-color {
   border-color: var(--shade-light-trans-80);
 }
-.has-shade-light-trans-90 {
+.has-shade-light-trans-90-color {
   color: var(--shade-light-trans-90);
 }
 .has-shade-light-trans-90-background-color {
@@ -2213,7 +2213,7 @@
 .has-shade-light-trans-90-border-color {
   border-color: var(--shade-light-trans-90);
 }
-.has-shade-dark-trans-10 {
+.has-shade-dark-trans-10-color {
   color: var(--shade-dark-trans-10);
 }
 .has-shade-dark-trans-10-background-color {
@@ -2222,7 +2222,7 @@
 .has-shade-dark-trans-10-border-color {
   border-color: var(--shade-dark-trans-10);
 }
-.has-shade-dark-trans-20 {
+.has-shade-dark-trans-20-color {
   color: var(--shade-dark-trans-20);
 }
 .has-shade-dark-trans-20-background-color {
@@ -2231,7 +2231,7 @@
 .has-shade-dark-trans-20-border-color {
   border-color: var(--shade-dark-trans-20);
 }
-.has-shade-dark-trans-30 {
+.has-shade-dark-trans-30-color {
   color: var(--shade-dark-trans-30);
 }
 .has-shade-dark-trans-30-background-color {
@@ -2240,7 +2240,7 @@
 .has-shade-dark-trans-30-border-color {
   border-color: var(--shade-dark-trans-30);
 }
-.has-shade-dark-trans-40 {
+.has-shade-dark-trans-40-color {
   color: var(--shade-dark-trans-40);
 }
 .has-shade-dark-trans-40-background-color {
@@ -2249,7 +2249,7 @@
 .has-shade-dark-trans-40-border-color {
   border-color: var(--shade-dark-trans-40);
 }
-.has-shade-dark-trans-50 {
+.has-shade-dark-trans-50-color {
   color: var(--shade-dark-trans-50);
 }
 .has-shade-dark-trans-50-background-color {
@@ -2258,7 +2258,7 @@
 .has-shade-dark-trans-50-border-color {
   border-color: var(--shade-dark-trans-50);
 }
-.has-shade-dark-trans-60 {
+.has-shade-dark-trans-60-color {
   color: var(--shade-dark-trans-60);
 }
 .has-shade-dark-trans-60-background-color {
@@ -2267,7 +2267,7 @@
 .has-shade-dark-trans-60-border-color {
   border-color: var(--shade-dark-trans-60);
 }
-.has-shade-dark-trans-70 {
+.has-shade-dark-trans-70-color {
   color: var(--shade-dark-trans-70);
 }
 .has-shade-dark-trans-70-background-color {
@@ -2276,7 +2276,7 @@
 .has-shade-dark-trans-70-border-color {
   border-color: var(--shade-dark-trans-70);
 }
-.has-shade-dark-trans-80 {
+.has-shade-dark-trans-80-color {
   color: var(--shade-dark-trans-80);
 }
 .has-shade-dark-trans-80-background-color {
@@ -2285,7 +2285,7 @@
 .has-shade-dark-trans-80-border-color {
   border-color: var(--shade-dark-trans-80);
 }
-.has-shade-dark-trans-90 {
+.has-shade-dark-trans-90-color {
   color: var(--shade-dark-trans-90);
 }
 .has-shade-dark-trans-90-background-color {
@@ -2294,7 +2294,7 @@
 .has-shade-dark-trans-90-border-color {
   border-color: var(--shade-dark-trans-90);
 }
-.has-shade-ultra-dark-trans-10 {
+.has-shade-ultra-dark-trans-10-color {
   color: var(--shade-ultra-dark-trans-10);
 }
 .has-shade-ultra-dark-trans-10-background-color {
@@ -2303,7 +2303,7 @@
 .has-shade-ultra-dark-trans-10-border-color {
   border-color: var(--shade-ultra-dark-trans-10);
 }
-.has-shade-ultra-dark-trans-20 {
+.has-shade-ultra-dark-trans-20-color {
   color: var(--shade-ultra-dark-trans-20);
 }
 .has-shade-ultra-dark-trans-20-background-color {
@@ -2312,7 +2312,7 @@
 .has-shade-ultra-dark-trans-20-border-color {
   border-color: var(--shade-ultra-dark-trans-20);
 }
-.has-shade-ultra-dark-trans-30 {
+.has-shade-ultra-dark-trans-30-color {
   color: var(--shade-ultra-dark-trans-30);
 }
 .has-shade-ultra-dark-trans-30-background-color {
@@ -2321,7 +2321,7 @@
 .has-shade-ultra-dark-trans-30-border-color {
   border-color: var(--shade-ultra-dark-trans-30);
 }
-.has-shade-ultra-dark-trans-40 {
+.has-shade-ultra-dark-trans-40-color {
   color: var(--shade-ultra-dark-trans-40);
 }
 .has-shade-ultra-dark-trans-40-background-color {
@@ -2330,7 +2330,7 @@
 .has-shade-ultra-dark-trans-40-border-color {
   border-color: var(--shade-ultra-dark-trans-40);
 }
-.has-shade-ultra-dark-trans-50 {
+.has-shade-ultra-dark-trans-50-color {
   color: var(--shade-ultra-dark-trans-50);
 }
 .has-shade-ultra-dark-trans-50-background-color {
@@ -2339,7 +2339,7 @@
 .has-shade-ultra-dark-trans-50-border-color {
   border-color: var(--shade-ultra-dark-trans-50);
 }
-.has-shade-ultra-dark-trans-60 {
+.has-shade-ultra-dark-trans-60-color {
   color: var(--shade-ultra-dark-trans-60);
 }
 .has-shade-ultra-dark-trans-60-background-color {
@@ -2348,7 +2348,7 @@
 .has-shade-ultra-dark-trans-60-border-color {
   border-color: var(--shade-ultra-dark-trans-60);
 }
-.has-shade-ultra-dark-trans-70 {
+.has-shade-ultra-dark-trans-70-color {
   color: var(--shade-ultra-dark-trans-70);
 }
 .has-shade-ultra-dark-trans-70-background-color {
@@ -2357,7 +2357,7 @@
 .has-shade-ultra-dark-trans-70-border-color {
   border-color: var(--shade-ultra-dark-trans-70);
 }
-.has-shade-ultra-dark-trans-80 {
+.has-shade-ultra-dark-trans-80-color {
   color: var(--shade-ultra-dark-trans-80);
 }
 .has-shade-ultra-dark-trans-80-background-color {
@@ -2366,7 +2366,7 @@
 .has-shade-ultra-dark-trans-80-border-color {
   border-color: var(--shade-ultra-dark-trans-80);
 }
-.has-shade-ultra-dark-trans-90 {
+.has-shade-ultra-dark-trans-90-color {
   color: var(--shade-ultra-dark-trans-90);
 }
 .has-shade-ultra-dark-trans-90-background-color {
@@ -2375,7 +2375,7 @@
 .has-shade-ultra-dark-trans-90-border-color {
   border-color: var(--shade-ultra-dark-trans-90);
 }
-.has-white {
+.has-white-color {
   color: var(--white);
 }
 .has-white-background-color {
@@ -2384,7 +2384,7 @@
 .has-white-border-color {
   border-color: var(--white);
 }
-.has-black {
+.has-black-color {
   color: var(--black);
 }
 .has-black-background-color {
@@ -2393,7 +2393,7 @@
 .has-black-border-color {
   border-color: var(--black);
 }
-.has-black-trans-10 {
+.has-black-trans-10-color {
   color: var(--black-trans-10);
 }
 .has-black-trans-10-background-color {
@@ -2402,7 +2402,7 @@
 .has-black-trans-10-border-color {
   border-color: var(--black-trans-10);
 }
-.has-black-trans-20 {
+.has-black-trans-20-color {
   color: var(--black-trans-20);
 }
 .has-black-trans-20-background-color {
@@ -2411,7 +2411,7 @@
 .has-black-trans-20-border-color {
   border-color: var(--black-trans-20);
 }
-.has-black-trans-30 {
+.has-black-trans-30-color {
   color: var(--black-trans-30);
 }
 .has-black-trans-30-background-color {
@@ -2420,7 +2420,7 @@
 .has-black-trans-30-border-color {
   border-color: var(--black-trans-30);
 }
-.has-black-trans-40 {
+.has-black-trans-40-color {
   color: var(--black-trans-40);
 }
 .has-black-trans-40-background-color {
@@ -2429,7 +2429,7 @@
 .has-black-trans-40-border-color {
   border-color: var(--black-trans-40);
 }
-.has-black-trans-50 {
+.has-black-trans-50-color {
   color: var(--black-trans-50);
 }
 .has-black-trans-50-background-color {
@@ -2438,7 +2438,7 @@
 .has-black-trans-50-border-color {
   border-color: var(--black-trans-50);
 }
-.has-black-trans-60 {
+.has-black-trans-60-color {
   color: var(--black-trans-60);
 }
 .has-black-trans-60-background-color {
@@ -2447,7 +2447,7 @@
 .has-black-trans-60-border-color {
   border-color: var(--black-trans-60);
 }
-.has-black-trans-70 {
+.has-black-trans-70-color {
   color: var(--black-trans-70);
 }
 .has-black-trans-70-background-color {
@@ -2456,7 +2456,7 @@
 .has-black-trans-70-border-color {
   border-color: var(--black-trans-70);
 }
-.has-black-trans-80 {
+.has-black-trans-80-color {
   color: var(--black-trans-80);
 }
 .has-black-trans-80-background-color {
@@ -2465,7 +2465,7 @@
 .has-black-trans-80-border-color {
   border-color: var(--black-trans-80);
 }
-.has-black-trans-90 {
+.has-black-trans-90-color {
   color: var(--black-trans-90);
 }
 .has-black-trans-90-background-color {
@@ -2474,7 +2474,7 @@
 .has-black-trans-90-border-color {
   border-color: var(--black-trans-90);
 }
-.has-white-trans-10 {
+.has-white-trans-10-color {
   color: var(--white-trans-10);
 }
 .has-white-trans-10-background-color {
@@ -2483,7 +2483,7 @@
 .has-white-trans-10-border-color {
   border-color: var(--white-trans-10);
 }
-.has-white-trans-20 {
+.has-white-trans-20-color {
   color: var(--white-trans-20);
 }
 .has-white-trans-20-background-color {
@@ -2492,7 +2492,7 @@
 .has-white-trans-20-border-color {
   border-color: var(--white-trans-20);
 }
-.has-white-trans-30 {
+.has-white-trans-30-color {
   color: var(--white-trans-30);
 }
 .has-white-trans-30-background-color {
@@ -2501,7 +2501,7 @@
 .has-white-trans-30-border-color {
   border-color: var(--white-trans-30);
 }
-.has-white-trans-40 {
+.has-white-trans-40-color {
   color: var(--white-trans-40);
 }
 .has-white-trans-40-background-color {
@@ -2510,7 +2510,7 @@
 .has-white-trans-40-border-color {
   border-color: var(--white-trans-40);
 }
-.has-white-trans-50 {
+.has-white-trans-50-color {
   color: var(--white-trans-50);
 }
 .has-white-trans-50-background-color {
@@ -2519,7 +2519,7 @@
 .has-white-trans-50-border-color {
   border-color: var(--white-trans-50);
 }
-.has-white-trans-60 {
+.has-white-trans-60-color {
   color: var(--white-trans-60);
 }
 .has-white-trans-60-background-color {
@@ -2528,7 +2528,7 @@
 .has-white-trans-60-border-color {
   border-color: var(--white-trans-60);
 }
-.has-white-trans-70 {
+.has-white-trans-70-color {
   color: var(--white-trans-70);
 }
 .has-white-trans-70-background-color {
@@ -2537,7 +2537,7 @@
 .has-white-trans-70-border-color {
   border-color: var(--white-trans-70);
 }
-.has-white-trans-80 {
+.has-white-trans-80-color {
   color: var(--white-trans-80);
 }
 .has-white-trans-80-background-color {
@@ -2546,7 +2546,7 @@
 .has-white-trans-80-border-color {
   border-color: var(--white-trans-80);
 }
-.has-white-trans-90 {
+.has-white-trans-90-color {
   color: var(--white-trans-90);
 }
 .has-white-trans-90-background-color {

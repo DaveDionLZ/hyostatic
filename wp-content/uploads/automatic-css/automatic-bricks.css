@@ -1,4 +1,4 @@
-/* Version: 2.5.0-beta-1 - Generated 2023-05-11 20:06:50 */
+/* Version: 2.5.0-beta-2 - Generated 2023-06-09 19:04:16 */
 body.bricks-is-frontend {
   /*Disables focus on finger touch for mobile devices*/
 }
@@ -326,7 +326,7 @@ body.bricks-is-frontend .focus--black *:focus {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
@@ -348,7 +348,7 @@ body.bricks-is-frontend .focus--black *:focus {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
@@ -468,7 +468,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
@@ -491,7 +491,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   border-width: 0.25rem;
   border-radius: 0;
   text-transform: none;
-  font-weight: 400;
+  font-weight: 700;
 }
 .btn--action.btn--outline:hover, .bricks-button.btn--action.btn--outline:hover {
   background-color: var(--action-hover);
@@ -510,7 +510,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
@@ -533,7 +533,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   border-width: 0.25rem;
   border-radius: 0;
   text-transform: none;
-  font-weight: 400;
+  font-weight: 700;
 }
 .btn--primary.btn--outline:hover, .bricks-button.btn--primary.btn--outline:hover {
   background-color: var(--primary-hover);
@@ -552,7 +552,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
@@ -575,7 +575,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   border-width: 0.25rem;
   border-radius: 0;
   text-transform: none;
-  font-weight: 400;
+  font-weight: 700;
 }
 .btn--secondary.btn--outline:hover, .bricks-button.btn--secondary.btn--outline:hover {
   background-color: var(--secondary-hover);
@@ -594,7 +594,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
@@ -617,7 +617,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   border-width: 0.25rem;
   border-radius: 0;
   text-transform: none;
-  font-weight: 400;
+  font-weight: 700;
 }
 .btn--accent.btn--outline:hover, .bricks-button.btn--accent.btn--outline:hover {
   background-color: var(--accent-hover);
@@ -636,7 +636,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
@@ -659,7 +659,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   border-width: 0.25rem;
   border-radius: 0;
   text-transform: none;
-  font-weight: 400;
+  font-weight: 700;
 }
 .btn--base.btn--outline:hover, .bricks-button.btn--base.btn--outline:hover {
   background-color: var(--primary);
@@ -678,7 +678,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
@@ -701,7 +701,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   border-width: 0.25rem;
   border-radius: 0;
   text-transform: none;
-  font-weight: 400;
+  font-weight: 700;
 }
 .btn--black.btn--outline:hover, .bricks-button.btn--black.btn--outline:hover {
   background-color: var(--action-hover);
@@ -720,7 +720,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
@@ -743,7 +743,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   border-width: 0.25rem;
   border-radius: 0;
   text-transform: none;
-  font-weight: 400;
+  font-weight: 700;
 }
 .btn--white.btn--outline:hover, .bricks-button.btn--white.btn--outline:hover {
   background-color: var(--shade-black);
@@ -760,7 +760,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
@@ -777,7 +777,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
@@ -794,7 +794,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
@@ -811,7 +811,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
@@ -828,7 +828,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
@@ -845,7 +845,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   -webkit-text-decoration: none;
   text-decoration: none;
   letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   min-inline-size: 20rem;
   line-height: 1;
