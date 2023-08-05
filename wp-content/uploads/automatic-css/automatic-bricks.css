@@ -1,270 +1,272 @@
-/* Version: 2.5.1 - Generated 2023-06-19 20:20:33 */
+/* File: automatic-bricks.css - Version: 2.6.0 - Generated: 2023-08-03 20:17:47 */
 body.bricks-is-frontend {
   /*Disables focus on finger touch for mobile devices*/
 }
 body.bricks-is-frontend *:focus, body.bricks-is-frontend button:focus {
   outline-style: solid;
-  outline-color: var(--action);
-  outline-inline-size: 0.2rem;
-  outline-offset: 0.25em;
+  outline-color: var(--focus-color);
+  outline-width: var(--focus-width);
+  outline-offset: var(--focus-offset);
 }
 body.bricks-is-frontend *:focus:not(:focus-visible), body.bricks-is-frontend button:focus:not(:focus-visible) {
   outline: none;
+  box-shadow: none;
 }
 body.bricks-is-frontend :focus:not(:focus-visible) {
   outline: none;
+  box-shadow: none;
 }
 body.bricks-is-frontend *:focus.focus--action {
-  outline-color: var(--action);
+  --focus-color: var(--action);
 }
 body.bricks-is-frontend .focus--action *:focus {
-  outline-color: var(--action);
+  --focus-color: var(--action);
 }
 body.bricks-is-frontend *:focus.focus--action-hover {
-  outline-color: var(--action-hover);
+  --focus-color: var(--action-hover);
 }
 body.bricks-is-frontend .focus--action-hover *:focus {
-  outline-color: var(--action-hover);
+  --focus-color: var(--action-hover);
 }
 body.bricks-is-frontend *:focus.focus--action-ultra-light {
-  outline-color: var(--action-ultra-light);
+  --focus-color: var(--action-ultra-light);
 }
 body.bricks-is-frontend .focus--action-ultra-light *:focus {
-  outline-color: var(--action-ultra-light);
+  --focus-color: var(--action-ultra-light);
 }
 body.bricks-is-frontend *:focus.focus--action-light {
-  outline-color: var(--action-light);
+  --focus-color: var(--action-light);
 }
 body.bricks-is-frontend .focus--action-light *:focus {
-  outline-color: var(--action-light);
+  --focus-color: var(--action-light);
 }
 body.bricks-is-frontend *:focus.focus--action-medium {
-  outline-color: var(--action-medium);
+  --focus-color: var(--action-medium);
 }
 body.bricks-is-frontend .focus--action-medium *:focus {
-  outline-color: var(--action-medium);
+  --focus-color: var(--action-medium);
 }
 body.bricks-is-frontend *:focus.focus--action-dark {
-  outline-color: var(--action-dark);
+  --focus-color: var(--action-dark);
 }
 body.bricks-is-frontend .focus--action-dark *:focus {
-  outline-color: var(--action-dark);
+  --focus-color: var(--action-dark);
 }
 body.bricks-is-frontend *:focus.focus--action-ultra-dark {
-  outline-color: var(--action-ultra-dark);
+  --focus-color: var(--action-ultra-dark);
 }
 body.bricks-is-frontend .focus--action-ultra-dark *:focus {
-  outline-color: var(--action-ultra-dark);
+  --focus-color: var(--action-ultra-dark);
 }
 body.bricks-is-frontend *:focus.focus--action-comp {
-  outline-color: var(--action-comp);
+  --focus-color: var(--action-comp);
 }
 body.bricks-is-frontend .focus--action-comp *:focus {
-  outline-color: var(--action-comp);
+  --focus-color: var(--action-comp);
 }
 body.bricks-is-frontend *:focus.focus--primary {
-  outline-color: var(--primary);
+  --focus-color: var(--primary);
 }
 body.bricks-is-frontend .focus--primary *:focus {
-  outline-color: var(--primary);
+  --focus-color: var(--primary);
 }
 body.bricks-is-frontend *:focus.focus--primary-hover {
-  outline-color: var(--primary-hover);
+  --focus-color: var(--primary-hover);
 }
 body.bricks-is-frontend .focus--primary-hover *:focus {
-  outline-color: var(--primary-hover);
+  --focus-color: var(--primary-hover);
 }
 body.bricks-is-frontend *:focus.focus--primary-ultra-light {
-  outline-color: var(--primary-ultra-light);
+  --focus-color: var(--primary-ultra-light);
 }
 body.bricks-is-frontend .focus--primary-ultra-light *:focus {
-  outline-color: var(--primary-ultra-light);
+  --focus-color: var(--primary-ultra-light);
 }
 body.bricks-is-frontend *:focus.focus--primary-light {
-  outline-color: var(--primary-light);
+  --focus-color: var(--primary-light);
 }
 body.bricks-is-frontend .focus--primary-light *:focus {
-  outline-color: var(--primary-light);
+  --focus-color: var(--primary-light);
 }
 body.bricks-is-frontend *:focus.focus--primary-medium {
-  outline-color: var(--primary-medium);
+  --focus-color: var(--primary-medium);
 }
 body.bricks-is-frontend .focus--primary-medium *:focus {
-  outline-color: var(--primary-medium);
+  --focus-color: var(--primary-medium);
 }
 body.bricks-is-frontend *:focus.focus--primary-dark {
-  outline-color: var(--primary-dark);
+  --focus-color: var(--primary-dark);
 }
 body.bricks-is-frontend .focus--primary-dark *:focus {
-  outline-color: var(--primary-dark);
+  --focus-color: var(--primary-dark);
 }
 body.bricks-is-frontend *:focus.focus--primary-ultra-dark {
-  outline-color: var(--primary-ultra-dark);
+  --focus-color: var(--primary-ultra-dark);
 }
 body.bricks-is-frontend .focus--primary-ultra-dark *:focus {
-  outline-color: var(--primary-ultra-dark);
+  --focus-color: var(--primary-ultra-dark);
 }
 body.bricks-is-frontend *:focus.focus--primary-comp {
-  outline-color: var(--primary-comp);
+  --focus-color: var(--primary-comp);
 }
 body.bricks-is-frontend .focus--primary-comp *:focus {
-  outline-color: var(--primary-comp);
+  --focus-color: var(--primary-comp);
 }
 body.bricks-is-frontend *:focus.focus--secondary {
-  outline-color: var(--secondary);
+  --focus-color: var(--secondary);
 }
 body.bricks-is-frontend .focus--secondary *:focus {
-  outline-color: var(--secondary);
+  --focus-color: var(--secondary);
 }
 body.bricks-is-frontend *:focus.focus--secondary-hover {
-  outline-color: var(--secondary-hover);
+  --focus-color: var(--secondary-hover);
 }
 body.bricks-is-frontend .focus--secondary-hover *:focus {
-  outline-color: var(--secondary-hover);
+  --focus-color: var(--secondary-hover);
 }
 body.bricks-is-frontend *:focus.focus--secondary-ultra-light {
-  outline-color: var(--secondary-ultra-light);
+  --focus-color: var(--secondary-ultra-light);
 }
 body.bricks-is-frontend .focus--secondary-ultra-light *:focus {
-  outline-color: var(--secondary-ultra-light);
+  --focus-color: var(--secondary-ultra-light);
 }
 body.bricks-is-frontend *:focus.focus--secondary-light {
-  outline-color: var(--secondary-light);
+  --focus-color: var(--secondary-light);
 }
 body.bricks-is-frontend .focus--secondary-light *:focus {
-  outline-color: var(--secondary-light);
+  --focus-color: var(--secondary-light);
 }
 body.bricks-is-frontend *:focus.focus--secondary-medium {
-  outline-color: var(--secondary-medium);
+  --focus-color: var(--secondary-medium);
 }
 body.bricks-is-frontend .focus--secondary-medium *:focus {
-  outline-color: var(--secondary-medium);
+  --focus-color: var(--secondary-medium);
 }
 body.bricks-is-frontend *:focus.focus--secondary-dark {
-  outline-color: var(--secondary-dark);
+  --focus-color: var(--secondary-dark);
 }
 body.bricks-is-frontend .focus--secondary-dark *:focus {
-  outline-color: var(--secondary-dark);
+  --focus-color: var(--secondary-dark);
 }
 body.bricks-is-frontend *:focus.focus--secondary-ultra-dark {
-  outline-color: var(--secondary-ultra-dark);
+  --focus-color: var(--secondary-ultra-dark);
 }
 body.bricks-is-frontend .focus--secondary-ultra-dark *:focus {
-  outline-color: var(--secondary-ultra-dark);
+  --focus-color: var(--secondary-ultra-dark);
 }
 body.bricks-is-frontend *:focus.focus--secondary-comp {
-  outline-color: var(--secondary-comp);
+  --focus-color: var(--secondary-comp);
 }
 body.bricks-is-frontend .focus--secondary-comp *:focus {
-  outline-color: var(--secondary-comp);
+  --focus-color: var(--secondary-comp);
 }
 body.bricks-is-frontend *:focus.focus--base {
-  outline-color: var(--base);
+  --focus-color: var(--base);
 }
 body.bricks-is-frontend .focus--base *:focus {
-  outline-color: var(--base);
+  --focus-color: var(--base);
 }
 body.bricks-is-frontend *:focus.focus--base-hover {
-  outline-color: var(--base-hover);
+  --focus-color: var(--base-hover);
 }
 body.bricks-is-frontend .focus--base-hover *:focus {
-  outline-color: var(--base-hover);
+  --focus-color: var(--base-hover);
 }
 body.bricks-is-frontend *:focus.focus--base-ultra-light {
-  outline-color: var(--base-ultra-light);
+  --focus-color: var(--base-ultra-light);
 }
 body.bricks-is-frontend .focus--base-ultra-light *:focus {
-  outline-color: var(--base-ultra-light);
+  --focus-color: var(--base-ultra-light);
 }
 body.bricks-is-frontend *:focus.focus--base-light {
-  outline-color: var(--base-light);
+  --focus-color: var(--base-light);
 }
 body.bricks-is-frontend .focus--base-light *:focus {
-  outline-color: var(--base-light);
+  --focus-color: var(--base-light);
 }
 body.bricks-is-frontend *:focus.focus--base-medium {
-  outline-color: var(--base-medium);
+  --focus-color: var(--base-medium);
 }
 body.bricks-is-frontend .focus--base-medium *:focus {
-  outline-color: var(--base-medium);
+  --focus-color: var(--base-medium);
 }
 body.bricks-is-frontend *:focus.focus--base-dark {
-  outline-color: var(--base-dark);
+  --focus-color: var(--base-dark);
 }
 body.bricks-is-frontend .focus--base-dark *:focus {
-  outline-color: var(--base-dark);
+  --focus-color: var(--base-dark);
 }
 body.bricks-is-frontend *:focus.focus--base-ultra-dark {
-  outline-color: var(--base-ultra-dark);
+  --focus-color: var(--base-ultra-dark);
 }
 body.bricks-is-frontend .focus--base-ultra-dark *:focus {
-  outline-color: var(--base-ultra-dark);
+  --focus-color: var(--base-ultra-dark);
 }
 body.bricks-is-frontend *:focus.focus--base-comp {
-  outline-color: var(--base-comp);
+  --focus-color: var(--base-comp);
 }
 body.bricks-is-frontend .focus--base-comp *:focus {
-  outline-color: var(--base-comp);
+  --focus-color: var(--base-comp);
 }
 body.bricks-is-frontend *:focus.focus--shade {
-  outline-color: var(--shade);
+  --focus-color: var(--shade);
 }
 body.bricks-is-frontend .focus--shade *:focus {
-  outline-color: var(--shade);
+  --focus-color: var(--shade);
 }
 body.bricks-is-frontend *:focus.focus--shade-hover {
-  outline-color: var(--shade-hover);
+  --focus-color: var(--shade-hover);
 }
 body.bricks-is-frontend .focus--shade-hover *:focus {
-  outline-color: var(--shade-hover);
+  --focus-color: var(--shade-hover);
 }
 body.bricks-is-frontend *:focus.focus--shade-ultra-light {
-  outline-color: var(--shade-ultra-light);
+  --focus-color: var(--shade-ultra-light);
 }
 body.bricks-is-frontend .focus--shade-ultra-light *:focus {
-  outline-color: var(--shade-ultra-light);
+  --focus-color: var(--shade-ultra-light);
 }
 body.bricks-is-frontend *:focus.focus--shade-light {
-  outline-color: var(--shade-light);
+  --focus-color: var(--shade-light);
 }
 body.bricks-is-frontend .focus--shade-light *:focus {
-  outline-color: var(--shade-light);
+  --focus-color: var(--shade-light);
 }
 body.bricks-is-frontend *:focus.focus--shade-medium {
-  outline-color: var(--shade-medium);
+  --focus-color: var(--shade-medium);
 }
 body.bricks-is-frontend .focus--shade-medium *:focus {
-  outline-color: var(--shade-medium);
+  --focus-color: var(--shade-medium);
 }
 body.bricks-is-frontend *:focus.focus--shade-dark {
-  outline-color: var(--shade-dark);
+  --focus-color: var(--shade-dark);
 }
 body.bricks-is-frontend .focus--shade-dark *:focus {
-  outline-color: var(--shade-dark);
+  --focus-color: var(--shade-dark);
 }
 body.bricks-is-frontend *:focus.focus--shade-ultra-dark {
-  outline-color: var(--shade-ultra-dark);
+  --focus-color: var(--shade-ultra-dark);
 }
 body.bricks-is-frontend .focus--shade-ultra-dark *:focus {
-  outline-color: var(--shade-ultra-dark);
+  --focus-color: var(--shade-ultra-dark);
 }
 body.bricks-is-frontend *:focus.focus--shade-comp {
-  outline-color: var(--shade-comp);
+  --focus-color: var(--shade-comp);
 }
 body.bricks-is-frontend .focus--shade-comp *:focus {
-  outline-color: var(--shade-comp);
+  --focus-color: var(--shade-comp);
 }
 body.bricks-is-frontend *:focus.focus--white {
-  outline-color: var(--white);
+  --focus-color: var(--white);
 }
 body.bricks-is-frontend .focus--white *:focus {
-  outline-color: var(--white);
+  --focus-color: var(--white);
 }
 body.bricks-is-frontend *:focus.focus--black {
-  outline-color: var(--black);
+  --focus-color: var(--black);
 }
 body.bricks-is-frontend .focus--black *:focus {
-  outline-color: var(--black);
+  --focus-color: var(--black);
 }
 .skip-link, .link--skip {
   position: absolute;
@@ -272,8 +274,8 @@ body.bricks-is-frontend .focus--black *:focus {
   inset-inline-start: 1rem;
   transform: translateY(-250%);
   padding: var(--btn-pad-y) var(--btn-pad-x);
-  border-width: var(--btn-border-size);
   border-radius: var(--btn-radius);
+  border-style: solid;
   text-transform: var(--btn-text-transform);
   -webkit-text-decoration: var(--btn-text-decoration);
   text-decoration: var(--btn-text-decoration);
@@ -284,6 +286,7 @@ body.bricks-is-frontend .focus--black *:focus {
   line-height: var(--btn-line-height);
   justify-content: center;
   text-align: center;
+  border-width: var(--btn-border-size);
   background: var(--action);
   color: var(--action-ultra-light);
   display: inline-flex;
@@ -321,6 +324,33 @@ body.bricks-is-frontend .focus--black *:focus {
   block-size: 20px;
   visibility: visible;
   border-radius: 50%;
+}
+.clickable-parent:not(a) {
+  position: static;
+}
+.clickable-parent:not(a) a {
+  position: static;
+}
+.clickable-parent:not(a) > a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  cursor: pointer !important;
+  display: flex;
+}
+a.clickable-parent {
+  position: static;
+}
+a.clickable-parent::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  cursor: pointer !important;
+  display: flex;
+}
+.bricks-area a.clickable-parent::after {
+  content: '';
+  position: relative;
 }
 body {
   font-size: 1.8rem;
@@ -365,51 +395,6 @@ h6 {
   font-size: clamp(1.1rem, calc(0vw + 1.1rem), 1.1rem);
   line-height: 1.2;
 }
-h1.brxe-heading, .h--1.brxe-heading {
-  inline-size: 100%;
-  max-inline-size: 100%;
-}
-h2.brxe-heading, .h--2.brxe-heading {
-  inline-size: 100%;
-  max-inline-size: 38ch;
-}
-h3.brxe-heading, .h--3.brxe-heading {
-  inline-size: 100%;
-  max-inline-size: 100%;
-}
-h4.brxe-heading, .h--4.brxe-heading {
-  inline-size: 100%;
-  max-inline-size: 100%;
-}
-h5.brxe-heading, .h--5.brxe-heading {
-  inline-size: 100%;
-  max-inline-size: 100%;
-}
-h6.brxe-heading, .h--6.brxe-heading {
-  inline-size: 100%;
-  max-inline-size: 100%;
-}
-.text--xs {
-  inline-size: 100%;
-}
-.text--s {
-  max-inline-size: 45ch;
-  inline-size: 100%;
-}
-.text--m {
-  max-inline-size: 65ch;
-  inline-size: 100%;
-}
-.text--l {
-  max-inline-size: 80ch;
-  inline-size: 100%;
-}
-.text--xl {
-  inline-size: 100%;
-}
-.text--xxl {
-  inline-size: 100%;
-}
 .btn--action, .bricks-button.btn--action {
   background-color: var(--action);
   color: var(--action-ultra-light);
@@ -417,8 +402,8 @@ h6.brxe-heading, .h--6.brxe-heading {
   border-style: solid;
   border-color: var(--action);
   padding: var(--btn-pad-y) var(--btn-pad-x);
-  border-width: var(--btn-border-size);
   border-radius: var(--btn-radius);
+  border-style: solid;
   text-transform: var(--btn-text-transform);
   -webkit-text-decoration: var(--btn-text-decoration);
   text-decoration: var(--btn-text-decoration);
@@ -429,6 +414,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   line-height: var(--btn-line-height);
   justify-content: center;
   text-align: center;
+  border-width: var(--btn-border-size);
   font-size: 1.8rem;
   font-size: calc(1.6rem + (0.2 * ((100vw - 32rem) / 96)));
   font-size: clamp(1.6rem, calc(0.2083333333vw + 1.5333333333rem), 1.8rem);
@@ -461,8 +447,8 @@ h6.brxe-heading, .h--6.brxe-heading {
   border-style: solid;
   border-color: var(--base);
   padding: var(--btn-pad-y) var(--btn-pad-x);
-  border-width: var(--btn-border-size);
   border-radius: var(--btn-radius);
+  border-style: solid;
   text-transform: var(--btn-text-transform);
   -webkit-text-decoration: var(--btn-text-decoration);
   text-decoration: var(--btn-text-decoration);
@@ -473,6 +459,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   line-height: var(--btn-line-height);
   justify-content: center;
   text-align: center;
+  border-width: var(--btn-border-size);
   font-size: 1.8rem;
   font-size: calc(1.6rem + (0.2 * ((100vw - 32rem) / 96)));
   font-size: clamp(1.6rem, calc(0.2083333333vw + 1.5333333333rem), 1.8rem);
@@ -505,8 +492,8 @@ h6.brxe-heading, .h--6.brxe-heading {
   border-style: solid;
   border-color: var(--shade-dark);
   padding: var(--btn-pad-y) var(--btn-pad-x);
-  border-width: var(--btn-border-size);
   border-radius: var(--btn-radius);
+  border-style: solid;
   text-transform: var(--btn-text-transform);
   -webkit-text-decoration: var(--btn-text-decoration);
   text-decoration: var(--btn-text-decoration);
@@ -517,6 +504,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   line-height: var(--btn-line-height);
   justify-content: center;
   text-align: center;
+  border-width: var(--btn-border-size);
   font-size: 1.8rem;
   font-size: calc(1.6rem + (0.2 * ((100vw - 32rem) / 96)));
   font-size: clamp(1.6rem, calc(0.2083333333vw + 1.5333333333rem), 1.8rem);
@@ -547,8 +535,8 @@ h6.brxe-heading, .h--6.brxe-heading {
   font-size: calc(1.1rem + (0 * ((100vw - 32rem) / 96)));
   font-size: clamp(1.1rem, calc(0vw + 1.1rem), 1.1rem);
   padding: var(--btn-pad-y) var(--btn-pad-x);
-  border-width: var(--btn-border-size);
   border-radius: var(--btn-radius);
+  border-style: solid;
   text-transform: var(--btn-text-transform);
   -webkit-text-decoration: var(--btn-text-decoration);
   text-decoration: var(--btn-text-decoration);
@@ -559,6 +547,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   line-height: var(--btn-line-height);
   justify-content: center;
   text-align: center;
+  border-width: var(--btn-border-size);
   cursor: pointer;
 }
 .btn--s, .bricks-button.btn--s {
@@ -566,8 +555,8 @@ h6.brxe-heading, .h--6.brxe-heading {
   font-size: calc(1.2rem + (0 * ((100vw - 32rem) / 96)));
   font-size: clamp(1.2rem, calc(0vw + 1.2rem), 1.2rem);
   padding: var(--btn-pad-y) var(--btn-pad-x);
-  border-width: var(--btn-border-size);
   border-radius: var(--btn-radius);
+  border-style: solid;
   text-transform: var(--btn-text-transform);
   -webkit-text-decoration: var(--btn-text-decoration);
   text-decoration: var(--btn-text-decoration);
@@ -578,6 +567,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   line-height: var(--btn-line-height);
   justify-content: center;
   text-align: center;
+  border-width: var(--btn-border-size);
   cursor: pointer;
 }
 .btn--m, .bricks-button.btn--m {
@@ -585,8 +575,8 @@ h6.brxe-heading, .h--6.brxe-heading {
   font-size: calc(1.6rem + (0.2 * ((100vw - 32rem) / 96)));
   font-size: clamp(1.6rem, calc(0.2083333333vw + 1.5333333333rem), 1.8rem);
   padding: var(--btn-pad-y) var(--btn-pad-x);
-  border-width: var(--btn-border-size);
   border-radius: var(--btn-radius);
+  border-style: solid;
   text-transform: var(--btn-text-transform);
   -webkit-text-decoration: var(--btn-text-decoration);
   text-decoration: var(--btn-text-decoration);
@@ -597,6 +587,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   line-height: var(--btn-line-height);
   justify-content: center;
   text-align: center;
+  border-width: var(--btn-border-size);
   cursor: pointer;
 }
 .btn--l, .bricks-button.btn--l {
@@ -604,8 +595,8 @@ h6.brxe-heading, .h--6.brxe-heading {
   font-size: calc(1.92rem + (0.4794 * ((100vw - 32rem) / 96)));
   font-size: clamp(1.92rem, calc(0.499375vw + 1.7602rem), 2.3994rem);
   padding: var(--btn-pad-y) var(--btn-pad-x);
-  border-width: var(--btn-border-size);
   border-radius: var(--btn-radius);
+  border-style: solid;
   text-transform: var(--btn-text-transform);
   -webkit-text-decoration: var(--btn-text-decoration);
   text-decoration: var(--btn-text-decoration);
@@ -616,6 +607,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   line-height: var(--btn-line-height);
   justify-content: center;
   text-align: center;
+  border-width: var(--btn-border-size);
   cursor: pointer;
 }
 .btn--xl, .bricks-button.btn--xl {
@@ -623,8 +615,8 @@ h6.brxe-heading, .h--6.brxe-heading {
   font-size: calc(2.304rem + (0.8944002 * ((100vw - 32rem) / 96)));
   font-size: clamp(2.304rem, calc(0.931666875vw + 2.0058666rem), 3.1984002rem);
   padding: var(--btn-pad-y) var(--btn-pad-x);
-  border-width: var(--btn-border-size);
   border-radius: var(--btn-radius);
+  border-style: solid;
   text-transform: var(--btn-text-transform);
   -webkit-text-decoration: var(--btn-text-decoration);
   text-decoration: var(--btn-text-decoration);
@@ -635,6 +627,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   line-height: var(--btn-line-height);
   justify-content: center;
   text-align: center;
+  border-width: var(--btn-border-size);
   cursor: pointer;
 }
 .btn--xxl, .bricks-button.btn--xxl {
@@ -642,8 +635,8 @@ h6.brxe-heading, .h--6.brxe-heading {
   font-size: calc(2.7648rem + (1.4986674666 * ((100vw - 32rem) / 96)));
   font-size: clamp(2.7648rem, calc(1.5611119444vw + 2.2652441778rem), 4.2634674666rem);
   padding: var(--btn-pad-y) var(--btn-pad-x);
-  border-width: var(--btn-border-size);
   border-radius: var(--btn-radius);
+  border-style: solid;
   text-transform: var(--btn-text-transform);
   -webkit-text-decoration: var(--btn-text-decoration);
   text-decoration: var(--btn-text-decoration);
@@ -654,6 +647,7 @@ h6.brxe-heading, .h--6.brxe-heading {
   line-height: var(--btn-line-height);
   justify-content: center;
   text-align: center;
+  border-width: var(--btn-border-size);
   cursor: pointer;
 }
 .flex--col:not(.brxe-container), .brxe-container.flex--col {
